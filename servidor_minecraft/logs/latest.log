@@ -238,3 +238,5 @@
 [31Dec2024 01:14:40.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Arun the Special'/22582, l='ServerLevel[world]', x=1124.30, y=-28.00, z=-178.70] died: Arun the Special was slain by Ivanrm04 using [Rose's Lacerating Iron Blade of the Duelist]
 [31Dec2024 01:14:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Not a Diamond]
 [31Dec2024 01:14:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Far From Perfect]
+[31Dec2024 01:24:53.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xItzDani lost connection: Timed out
+[31Dec2024 01:24:53.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani left the game
