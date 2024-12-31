@@ -243,3 +243,29 @@
 [31Dec2024 01:38:31.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Best Friends Forever]
 [31Dec2024 01:48:52.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [The Andesite Age]
 [31Dec2024 01:53:00.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Bonk!]
+[31Dec2024 02:03:15.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Dec2024 02:03:15.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
+[31Dec2024 02:03:22.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Dec2024 02:03:22.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Dec2024 02:03:22.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Dec2024 02:03:22.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanrm04 lost connection: Server closed
+[31Dec2024 02:03:22.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 left the game
+[31Dec2024 02:03:22.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Dec2024 02:03:22.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Dec2024 02:03:23.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[31Dec2024 02:03:23.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[31Dec2024 02:03:23.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[31Dec2024 02:03:23.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Dec2024 02:03:23.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Dec2024 02:03:23.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[31Dec2024 02:03:23.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[31Dec2024 02:03:23.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Dec2024 02:03:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[31Dec2024 02:03:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[31Dec2024 02:03:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[31Dec2024 02:03:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Dec2024 02:03:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Dec2024 02:03:23.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[31Dec2024 02:03:23.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[31Dec2024 02:03:23.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Dec2024 02:03:23.477] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

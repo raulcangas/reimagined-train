@@ -2829,6 +2829,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-31 01:57:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2024-12-31 01:42:34 +0000"
