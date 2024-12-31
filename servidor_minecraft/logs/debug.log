@@ -6806,3 +6806,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Dec2024 00:46:51.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [The Andesite Age]
 [31Dec2024 00:47:19.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Dec2024 00:47:19.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 00:52:19.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 00:52:19.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 00:54:40.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Isn't It Iron Pick]
+[31Dec2024 00:55:47.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ivanrm04> wwwww
+[31Dec2024 00:57:19.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 00:57:19.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
