@@ -6845,3 +6845,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Dec2024 01:42:19.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Dec2024 01:47:19.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Dec2024 01:47:19.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:48:52.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [The Andesite Age]
+[31Dec2024 01:52:19.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:52:19.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:53:00.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Bonk!]
+[31Dec2024 01:57:19.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:57:19.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
