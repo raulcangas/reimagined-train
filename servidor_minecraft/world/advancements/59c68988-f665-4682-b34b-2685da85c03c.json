@@ -28,6 +28,7 @@
       "minecraft:taiga": "2024-12-31 01:24:59 +0000",
       "minecraft:eroded_badlands": "2024-12-30 23:47:13 +0000",
       "minecraft:badlands": "2024-12-30 23:47:34 +0000",
+      "minecraft:savanna_plateau": "2024-12-31 01:34:01 +0000",
       "minecraft:beach": "2024-12-30 23:59:54 +0000",
       "minecraft:dark_forest": "2024-12-30 23:38:49 +0000",
       "minecraft:sparse_jungle": "2024-12-30 23:40:12 +0000",
@@ -2108,6 +2109,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2024-12-31 01:35:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-31 01:05:08 +0000"
@@ -2567,6 +2574,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-31 01:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-31 01:35:46 +0000"
     },
     "done": true
   },
@@ -3116,6 +3129,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-31 01:35:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 00:40:03 +0000"
@@ -3182,6 +3201,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-31 01:35:46 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hose_nozzle": {
     "criteria": {
       "has_iron": "2024-12-31 00:40:03 +0000"
@@ -3197,6 +3222,12 @@
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 00:40:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2024-12-31 01:35:46 +0000"
     },
     "done": true
   },
@@ -3341,6 +3372,12 @@
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-31 01:03:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-31 01:35:46 +0000"
     },
     "done": true
   },
