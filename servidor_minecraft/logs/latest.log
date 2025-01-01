@@ -242,3 +242,8 @@
 [01Jan2025 23:33:41.447] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xItzDani
 [01Jan2025 23:33:41.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xItzDani
 [01Jan2025 23:33:41.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani joined the game
+[01Jan2025 23:36:54.115] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/56185, l='ServerLevel[world]', x=1630.50, y=67.50, z=-917.80] died, message: 'Leatherworker was slain by xItzDani'
+[01Jan2025 23:36:57.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/56186, l='ServerLevel[world]', x=1630.47, y=67.50, z=-917.80] died, message: 'Leatherworker was slain by xItzDani'
+[01Jan2025 23:37:03.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/56183, l='ServerLevel[world]', x=1631.39, y=67.00, z=-923.69] died, message: 'Leatherworker was slain by xItzDani'
+[01Jan2025 23:45:36.513] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Tamara'/61544, l='ServerLevel[world]', x=1425.81, y=64.00, z=-430.27] died: Tamara was slain by Ivanrm04
+[01Jan2025 23:50:45.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Ice Bucket Challenge]
