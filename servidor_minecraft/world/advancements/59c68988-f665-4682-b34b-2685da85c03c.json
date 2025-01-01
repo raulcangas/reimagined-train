@@ -551,6 +551,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-31 00:39:44 +0000",
+      "bread": "2025-01-01 22:09:58 +0000",
       "rotten_flesh": "2024-12-31 00:32:06 +0000",
       "melon_slice": "2024-12-30 23:42:26 +0000"
     },
@@ -1865,6 +1866,7 @@
       "minecraft:creeper": "2024-12-31 00:35:56 +0000",
       "minecraft:witch": "2024-12-31 01:14:40 +0000",
       "minecraft:husk": "2024-12-31 01:11:38 +0000",
+      "minecraft:cave_spider": "2025-01-01 22:10:49 +0000",
       "minecraft:enderman": "2024-12-31 01:03:56 +0000",
       "minecraft:zombie": "2024-12-31 00:32:00 +0000",
       "minecraft:zombie_villager": "2025-01-01 21:50:12 +0000"

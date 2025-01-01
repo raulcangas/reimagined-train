@@ -960,6 +960,7 @@
       "cooked_beef": "2024-12-30 23:49:04 +0000",
       "mutton": "2024-12-30 23:47:55 +0000",
       "bread": "2024-12-31 00:02:46 +0000",
+      "rotten_flesh": "2025-01-01 22:14:18 +0000",
       "cooked_chicken": "2024-12-30 23:59:04 +0000"
     },
     "done": false
@@ -3358,6 +3359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-01 22:16:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-01 21:57:25 +0000"
@@ -3373,6 +3380,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-01 21:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-01 22:16:16 +0000"
     },
     "done": true
   },
@@ -3559,6 +3572,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-01-01 21:33:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-01-01 22:16:16 +0000"
     },
     "done": true
   },
