@@ -227,3 +227,18 @@
 [01Jan2025 23:20:55.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Hot Stuff]
 [01Jan2025 23:21:22.642] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Nick the Sage'/49784, l='ServerLevel[world]', x=1459.38, y=111.00, z=-1.09] died: Nick the Sage was slain by xItzDani
 [01Jan2025 23:21:23.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has completed the challenge [He Wasn't So Strong]
+[01Jan2025 23:27:23.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Light Up The World!]
+[01Jan2025 23:27:36.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [A Little Hot Rod Red]
+[01Jan2025 23:27:51.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [What a Deal!]
+[01Jan2025 23:33:32.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xItzDani lost connection: Timed out
+[01Jan2025 23:33:32.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani left the game
+[01Jan2025 23:33:36.920] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player xItzDani is 87681f85-caf8-41f0-ad61-e7406326f098
+[01Jan2025 23:33:41.436] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xItzDani[/[::1]:58762] logged in with entity id 55949 at (1819.2997570232872, 70.0, -994.9324851713556)
+[01Jan2025 23:33:41.437] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xItzDani
+[01Jan2025 23:33:41.437] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xItzDani
+[01Jan2025 23:33:41.438] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xItzDani
+[01Jan2025 23:33:41.438] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xItzDani
+[01Jan2025 23:33:41.442] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xItzDani
+[01Jan2025 23:33:41.447] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xItzDani
+[01Jan2025 23:33:41.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xItzDani
+[01Jan2025 23:33:41.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani joined the game

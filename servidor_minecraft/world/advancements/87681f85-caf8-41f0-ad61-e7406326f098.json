@@ -39,6 +39,7 @@
       "minecraft:forest": "2024-12-30 23:51:52 +0000",
       "minecraft:jungle": "2024-12-30 23:52:17 +0000",
       "minecraft:ocean": "2024-12-30 23:55:40 +0000",
+      "minecraft:flower_forest": "2025-01-01 23:31:48 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-30 23:40:15 +0000",
       "minecraft:deep_dark": "2024-12-31 01:09:26 +0000",
       "minecraft:savanna": "2024-12-30 23:42:13 +0000",
@@ -959,6 +960,7 @@
       "cooked_porkchop": "2024-12-31 00:31:41 +0000",
       "cooked_mutton": "2024-12-30 23:51:22 +0000",
       "cooked_beef": "2024-12-30 23:49:04 +0000",
+      "baked_potato": "2025-01-01 23:29:47 +0000",
       "mutton": "2024-12-30 23:47:55 +0000",
       "bread": "2024-12-31 00:02:46 +0000",
       "rotten_flesh": "2025-01-01 22:14:18 +0000",
@@ -3246,6 +3248,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-01 21:54:42 +0000"
@@ -3387,6 +3395,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-01-01 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:23 +0000"
     },
     "done": true
   },
@@ -3552,6 +3566,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-01 21:57:25 +0000"
@@ -3573,6 +3599,12 @@
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-01-01 21:48:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:23 +0000"
     },
     "done": true
   },
@@ -3714,6 +3746,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:36 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-01-01 22:37:35 +0000"
@@ -3759,6 +3797,18 @@
   "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
     "criteria": {
       "has_gray_wool": "2025-01-01 21:29:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:23 +0000"
     },
     "done": true
   },
@@ -3846,6 +3896,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-01-01 21:29:51 +0000"
@@ -3861,6 +3917,12 @@
   "create:millstone": {
     "criteria": {
       "0": "2025-01-01 22:45:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-01 23:27:24 +0000"
     },
     "done": true
   },
@@ -3936,6 +3998,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-01 21:57:25 +0000"
@@ -3963,6 +4031,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-01 21:54:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:23 +0000"
     },
     "done": true
   },
@@ -4008,9 +4082,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-01 23:27:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-01 23:17:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:23 +0000"
     },
     "done": true
   },
@@ -4092,6 +4178,12 @@
     },
     "done": true
   },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-01-01 23:27:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-01 21:36:02 +0000"
@@ -4122,9 +4214,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:24 +0000"
+    },
+    "done": true
+  },
   "create:windmill": {
     "criteria": {
       "0": "2025-01-01 21:41:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-01-01 23:27:36 +0000"
     },
     "done": true
   },
@@ -4212,6 +4322,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-01 23:27:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-01 21:57:25 +0000"
@@ -4242,9 +4358,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-01 21:33:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-01-01 23:27:45 +0000"
     },
     "done": true
   },
@@ -4260,6 +4388,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:36 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2025-01-01 21:54:00 +0000"
@@ -4269,6 +4409,12 @@
   "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2025-01-01 21:54:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:24 +0000"
     },
     "done": true
   },
@@ -4470,6 +4616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-01 23:27:24 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/trough": {
     "criteria": {
       "has_item": "2025-01-01 21:36:02 +0000"
@@ -4497,6 +4649,12 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-01 21:57:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:36 +0000"
     },
     "done": true
   },
@@ -4539,6 +4697,12 @@
   "create:recipes/misc/crafting/appliances/slime_ball": {
     "criteria": {
       "has_item": "2025-01-01 22:56:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:36 +0000"
     },
     "done": true
   },
