@@ -6546,3 +6546,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jan2025 22:38:40.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jan2025 22:43:40.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jan2025 22:43:40.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 22:44:29.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Darke'/34329, l='ServerLevel[world]', x=1878.50, y=-22.93, z=-1038.21] died: Darke was slain by Ivanrm04
+[01Jan2025 22:48:40.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 22:48:40.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 22:51:14.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1402, y=111, z=63} BlockPos{x=1404, y=111, z=63}
+[01Jan2025 22:53:39.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [A Seedy Place]
+[01Jan2025 22:53:40.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 22:53:40.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 22:58:08.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [A Little Hot Rod Red]
+[01Jan2025 22:58:25.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Light Up The World!]
+[01Jan2025 22:58:40.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 22:58:40.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 22:58:52.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [What a Deal!]
+[01Jan2025 23:03:40.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:03:40.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:08:40.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:08:40.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:13:40.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:13:40.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:18:40.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:18:40.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:20:55.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Hot Stuff]
+[01Jan2025 23:21:22.642] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Nick the Sage'/49784, l='ServerLevel[world]', x=1459.38, y=111.00, z=-1.09] died: Nick the Sage was slain by xItzDani
+[01Jan2025 23:21:23.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has completed the challenge [He Wasn't So Strong]
+[01Jan2025 23:23:40.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:23:40.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

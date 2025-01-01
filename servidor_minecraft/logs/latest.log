@@ -218,3 +218,12 @@
 [01Jan2025 22:24:47.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/23731, l='ServerLevel[world]', x=1354.56, y=97.00, z=-62.45] died, message: 'Cleric was slain by Zombie'
 [01Jan2025 22:36:40.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has reached the goal [Flawless Crystals]
 [01Jan2025 22:37:36.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Cover Me with Diamonds]
+[01Jan2025 22:44:29.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Darke'/34329, l='ServerLevel[world]', x=1878.50, y=-22.93, z=-1038.21] died: Darke was slain by Ivanrm04
+[01Jan2025 22:51:14.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1402, y=111, z=63} BlockPos{x=1404, y=111, z=63}
+[01Jan2025 22:53:39.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [A Seedy Place]
+[01Jan2025 22:58:08.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [A Little Hot Rod Red]
+[01Jan2025 22:58:25.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Light Up The World!]
+[01Jan2025 22:58:52.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [What a Deal!]
+[01Jan2025 23:20:55.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Hot Stuff]
+[01Jan2025 23:21:22.642] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Nick the Sage'/49784, l='ServerLevel[world]', x=1459.38, y=111.00, z=-1.09] died: Nick the Sage was slain by xItzDani
+[01Jan2025 23:21:23.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has completed the challenge [He Wasn't So Strong]
