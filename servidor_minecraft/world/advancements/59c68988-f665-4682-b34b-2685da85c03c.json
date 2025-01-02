@@ -1871,6 +1871,7 @@
       "minecraft:spider": "2024-12-31 00:35:56 +0000",
       "minecraft:piglin_brute": "2025-01-02 00:26:16 +0000",
       "minecraft:creeper": "2024-12-31 00:35:56 +0000",
+      "minecraft:zombified_piglin": "2025-01-02 00:41:43 +0000",
       "minecraft:witch": "2024-12-31 01:14:40 +0000",
       "minecraft:wither_skeleton": "2025-01-02 00:20:01 +0000",
       "minecraft:husk": "2024-12-31 01:11:38 +0000",
@@ -4527,6 +4528,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-01-02 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-01-02 00:41:20 +0000"
     },
     "done": true
   },

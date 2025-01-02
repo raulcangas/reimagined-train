@@ -6964,3 +6964,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jan2025 00:34:24.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=55, z=-215} BlockPos{x=94, y=53, z=-215}
 [02Jan2025 00:34:24.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=55, z=-215} BlockPos{x=94, y=53, z=-215}
 [02Jan2025 00:34:24.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=55, z=-215} BlockPos{x=94, y=53, z=-215}
+[02Jan2025 00:37:20.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 burned to death
+[02Jan2025 00:37:22.265] [Server thread/DEBUG] [twilightforest/]: Player Ivanrm04 (59c68988-f665-4682-b34b-2685da85c03c) respawned and received items held in storage
+[02Jan2025 00:38:21.333] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Jan2025 00:38:21.564] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=1481, y=53, z=-405} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[02Jan2025 00:38:21.565] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=1481, y=53, z=-405} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[02Jan2025 00:38:43.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 00:38:43.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 00:41:27.734] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[02Jan2025 00:41:27.740] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=190, y=43, z=-50} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[02Jan2025 00:41:27.741] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=190, y=43, z=-50} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[02Jan2025 00:43:43.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 00:43:43.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

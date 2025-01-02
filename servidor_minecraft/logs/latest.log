@@ -57,3 +57,5 @@
 [02Jan2025 00:34:24.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=55, z=-215} BlockPos{x=94, y=53, z=-215}
 [02Jan2025 00:34:24.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=55, z=-215} BlockPos{x=94, y=53, z=-215}
 [02Jan2025 00:34:24.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=55, z=-215} BlockPos{x=94, y=53, z=-215}
+[02Jan2025 00:37:20.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 burned to death
+[02Jan2025 00:38:21.333] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
