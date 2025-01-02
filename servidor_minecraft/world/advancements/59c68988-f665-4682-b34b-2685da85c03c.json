@@ -552,6 +552,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-02 00:18:07 +0000",
       "cooked_beef": "2024-12-31 00:39:44 +0000",
       "bread": "2025-01-01 22:09:58 +0000",
       "rotten_flesh": "2024-12-31 00:32:06 +0000",
@@ -1866,11 +1867,15 @@
       "minecraft:blaze": "2025-01-02 00:12:09 +0000",
       "minecraft:skeleton": "2024-12-31 00:30:57 +0000",
       "minecraft:hoglin": "2025-01-02 00:09:47 +0000",
+      "minecraft:magma_cube": "2025-01-02 00:20:41 +0000",
       "minecraft:spider": "2024-12-31 00:35:56 +0000",
+      "minecraft:piglin_brute": "2025-01-02 00:26:16 +0000",
       "minecraft:creeper": "2024-12-31 00:35:56 +0000",
       "minecraft:witch": "2024-12-31 01:14:40 +0000",
+      "minecraft:wither_skeleton": "2025-01-02 00:20:01 +0000",
       "minecraft:husk": "2024-12-31 01:11:38 +0000",
       "minecraft:cave_spider": "2025-01-01 22:10:49 +0000",
+      "minecraft:piglin": "2025-01-02 00:30:35 +0000",
       "minecraft:enderman": "2024-12-31 01:03:56 +0000",
       "minecraft:zombie": "2024-12-31 00:32:00 +0000",
       "minecraft:zombie_villager": "2025-01-01 21:50:12 +0000"
@@ -3989,6 +3994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 00:18:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-01-01 23:39:29 +0000"
@@ -4034,7 +4045,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-01-02 00:09:35 +0000",
-      "minecraft:nether_wastes": "2025-01-02 00:11:22 +0000"
+      "minecraft:nether_wastes": "2025-01-02 00:11:22 +0000",
+      "minecraft:soul_sand_valley": "2025-01-02 00:14:59 +0000"
     },
     "done": false
   },
@@ -4068,6 +4080,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-02 00:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-02 00:27:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-01-02 00:12:10 +0000"
@@ -4098,6 +4122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:27:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-01-01 23:39:29 +0000"
@@ -4107,6 +4137,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-01-01 23:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:27:43 +0000"
     },
     "done": true
   },
@@ -4167,6 +4203,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-01-02 00:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:27:43 +0000"
     },
     "done": true
   },
@@ -4233,6 +4275,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-01-01 23:39:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 00:27:43 +0000"
     },
     "done": true
   },
@@ -4359,6 +4407,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-01 23:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:27:43 +0000"
     },
     "done": true
   },
@@ -4500,6 +4554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:27:43 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_poison_stone": {
     "criteria": {
       "has_item": "2025-01-02 00:11:13 +0000"
@@ -4530,6 +4590,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:27:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/controller_rail": {
     "criteria": {
       "has_item": "2025-01-01 21:45:39 +0000"
@@ -4539,6 +4611,12 @@
   "blue_skies:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2025-01-01 22:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-02 00:21:05 +0000"
     },
     "done": true
   },
@@ -4674,6 +4752,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-02 00:20:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/transportation/ghost_rail": {
     "criteria": {
       "has_item": "2025-01-01 21:45:40 +0000"
@@ -4683,6 +4767,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-01 23:48:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-02 00:21:05 +0000"
     },
     "done": true
   },
@@ -4701,6 +4791,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-01-02 00:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:27:43 +0000"
     },
     "done": true
   },
@@ -4842,6 +4938,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-02 00:20:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-01 23:48:02 +0000"
@@ -4866,6 +4968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-02 00:27:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-01-01 23:39:29 +0000"
@@ -4875,6 +4983,12 @@
   "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
     "criteria": {
       "has_item": "2025-01-01 23:54:29 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-01-02 00:26:17 +0000"
     },
     "done": true
   },
@@ -4911,6 +5025,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-01 23:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-02 00:27:43 +0000"
     },
     "done": true
   },
@@ -4980,6 +5100,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-01-02 00:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-01 21:57:22 +0000"
@@ -4989,6 +5115,12 @@
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2025-01-01 21:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-02 00:20:02 +0000"
     },
     "done": true
   },

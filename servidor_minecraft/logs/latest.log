@@ -20,3 +20,40 @@
 [02Jan2025 00:11:24.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Into Fire]
 [02Jan2025 00:11:44.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Spooky Scary Skeleton]
 [02Jan2025 00:12:10.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Into Fire]
+[02Jan2025 00:18:09.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/76009, l='ServerLevel[world]', x=336.65, y=57.92, z=-244.04] died: Withering Archer was slain by xItzDani
+[02Jan2025 00:19:39.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani withered away
+[02Jan2025 00:19:39.135] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xItzDani with unique ID travelersbackpack.iron_02.01.2025-00.19.39.dat
+[02Jan2025 00:19:54.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:54.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:54.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:54.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:54.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:54.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:54.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:54.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:54.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:54.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:54.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:54.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:55.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:55.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:19:55.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=65, z=-337} BlockPos{x=309, y=64, z=-336}
+[02Jan2025 00:20:02.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Spooky Scary Skeleton]
+[02Jan2025 00:20:23.046] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Karen the Manly'/77255, l='ServerLevel[world]', x=1449.41, y=129.00, z=-53.55] died: Karen the Manly was frozen to death
+[02Jan2025 00:20:29.873] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/76750, l='ServerLevel[world]', x=318.80, y=59.88, z=-323.19] died: Withering Archer was slain by Ivanrm04
+[02Jan2025 00:20:42.932] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/77075, l='ServerLevel[world]', x=1350.70, y=104.80, z=-85.81] died, message: 'Villager was slain by Zombie'
+[02Jan2025 00:21:05.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/76693, l='ServerLevel[world]', x=330.43, y=57.00, z=-304.50] died: Withering Archer was slain by Ivanrm04
+[02Jan2025 00:21:34.636] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Jan2025 00:26:16.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Poppa Tyson the Cheese Sprayer'/78744, l='ServerLevel[world]', x=296.85, y=97.00, z=-158.92] died: Poppa Tyson the Cheese Sprayer was slain by Ivanrm04
+[02Jan2025 00:26:17.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 has made the advancement [Epic!]
+[02Jan2025 00:26:53.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 was slain by xItzDani
+[02Jan2025 00:26:53.884] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ivanrm04 with unique ID travelersbackpack.standard_02.01.2025-00.26.53.dat
+[02Jan2025 00:27:09.387] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Jan2025 00:29:22.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani fell from a high place
+[02Jan2025 00:29:22.390] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xItzDani with unique ID travelersbackpack.iron_02.01.2025-00.29.22.dat
+[02Jan2025 00:29:36.053] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Jan2025 00:33:47.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xItzDani lost connection: Timed out
+[02Jan2025 00:33:47.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani left the game
+[02Jan2025 00:34:24.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=55, z=-215} BlockPos{x=94, y=53, z=-215}
+[02Jan2025 00:34:24.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=55, z=-215} BlockPos{x=94, y=53, z=-215}
+[02Jan2025 00:34:24.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=55, z=-215} BlockPos{x=94, y=53, z=-215}
