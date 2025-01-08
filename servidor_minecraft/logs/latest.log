@@ -208,3 +208,12 @@
 [08Jan2025 20:43:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xItzDani> duerme
 [08Jan2025 20:43:20.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xItzDani> engendro
 [08Jan2025 20:43:25.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xItzDani> feo
+[08Jan2025 21:04:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xItzDani> feo
+[08Jan2025 21:05:25.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3368, y=62, z=-856} BlockPos{x=3368, y=61, z=-856}
+[08Jan2025 21:05:32.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:05:32.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:05:32.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:05:32.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:05:32.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:05:32.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:05:32.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}

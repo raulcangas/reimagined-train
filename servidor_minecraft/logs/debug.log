@@ -6508,3 +6508,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Jan2025 20:43:25.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xItzDani> feo
 [08Jan2025 20:47:15.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 20:47:15.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 20:52:15.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 20:52:15.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 20:57:15.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 20:57:15.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 20:58:02.694] [Worker-Main-10/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jan2025 21:02:15.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 21:02:15.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 21:03:30.080] [Worker-Main-10/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[08Jan2025 21:04:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xItzDani> feo
+[08Jan2025 21:05:25.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3368, y=62, z=-856} BlockPos{x=3368, y=61, z=-856}
+[08Jan2025 21:05:32.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:05:32.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:05:32.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:05:32.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:05:32.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:05:32.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:05:32.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:07:15.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 21:07:15.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

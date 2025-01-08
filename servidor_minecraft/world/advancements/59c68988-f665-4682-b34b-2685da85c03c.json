@@ -35,6 +35,8 @@
       "minecraft:dark_forest": "2024-12-30 23:38:49 +0000",
       "minecraft:sparse_jungle": "2024-12-30 23:40:12 +0000",
       "minecraft:river": "2024-12-30 23:40:05 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-08 20:58:24 +0000",
+      "minecraft:stony_shore": "2025-01-08 21:01:12 +0000",
       "minecraft:dripstone_caves": "2024-12-31 00:24:30 +0000",
       "minecraft:forest": "2024-12-30 23:48:17 +0000",
       "minecraft:desert": "2024-12-30 23:45:31 +0000",
@@ -6168,9 +6170,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-08 21:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-08 21:05:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/pink_shiny_flower": {
     "criteria": {
       "has_item": "2025-01-08 20:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-08 21:05:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-01-08 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-01-08 20:56:35 +0000"
     },
     "done": true
   },
