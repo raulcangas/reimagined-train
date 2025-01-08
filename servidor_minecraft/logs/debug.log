@@ -7394,3 +7394,52 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Jan2025 22:48:25.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 joined the game
 [08Jan2025 22:52:20.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 22:52:20.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 22:57:20.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 22:57:20.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 22:57:52.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Local Librarian]
+[08Jan2025 23:00:15.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanrm04 lost connection: Disconnected
+[08Jan2025 23:00:15.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 left the game
+[08Jan2025 23:00:22.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xItzDani lost connection: Disconnected
+[08Jan2025 23:00:22.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani left the game
+[08Jan2025 23:00:27.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Jan2025 23:00:27.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jan2025 23:00:27.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jan2025 23:00:27.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jan2025 23:00:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jan2025 23:00:28.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[08Jan2025 23:00:28.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[08Jan2025 23:00:28.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[08Jan2025 23:00:28.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[08Jan2025 23:00:28.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jan2025 23:00:28.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jan2025 23:00:28.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[08Jan2025 23:00:28.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:00:28.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:00:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jan2025 23:00:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[08Jan2025 23:00:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[08Jan2025 23:00:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[08Jan2025 23:00:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[08Jan2025 23:00:28.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jan2025 23:00:28.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jan2025 23:00:28.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[08Jan2025 23:00:28.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jan2025 23:00:28.301] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[08Jan2025 23:00:28.301] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[08Jan2025 23:00:28.501] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for blue_skies:everdawn
+[08Jan2025 23:00:28.501] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for blue_skies:everdawn
+[08Jan2025 23:00:28.501] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[08Jan2025 23:00:28.501] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[08Jan2025 23:00:28.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for aether:the_aether
+[08Jan2025 23:00:28.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for aether:the_aether
+[08Jan2025 23:00:28.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for bloodmagic:dungeon
+[08Jan2025 23:00:28.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for bloodmagic:dungeon
+[08Jan2025 23:00:28.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[08Jan2025 23:00:28.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[08Jan2025 23:00:28.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[08Jan2025 23:00:28.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[08Jan2025 23:00:28.503] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for blue_skies:everbright
+[08Jan2025 23:00:28.503] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for blue_skies:everbright
+[08Jan2025 23:00:28.505] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[08Jan2025 23:00:28.509] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[08Jan2025 23:00:28.511] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
