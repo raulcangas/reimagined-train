@@ -248,3 +248,7 @@
 [08Jan2025 21:53:35.985] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ivanrm04
 [08Jan2025 21:53:35.986] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ivanrm04
 [08Jan2025 21:53:36.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 joined the game
+[08Jan2025 22:06:10.624] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Quade the Rejected'/49356, l='ServerLevel[world]', x=2838.30, y=-28.00, z=-3945.48] died: Quade the Rejected was slain by Ivanrm04
+[08Jan2025 22:08:21.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [The Secrets of Enchanting]
+[08Jan2025 22:10:13.075] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Olaf the Honest'/50993, l='ServerLevel[world]', x=2780.88, y=-10.00, z=-3892.70] died: Olaf the Honest was slain by Ivanrm04
+[08Jan2025 22:12:09.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Darko'/51582, l='ServerLevel[world]', x=2808.69, y=-16.00, z=-3899.35] died: Darko was slain by Ivanrm04
