@@ -700,6 +700,7 @@
       "minecraft:hoglin": "2025-01-02 00:08:21 +0000",
       "minecraft:spider": "2024-12-30 23:47:50 +0000",
       "minecraft:creeper": "2024-12-31 01:10:52 +0000",
+      "minecraft:witch": "2025-01-08 21:50:20 +0000",
       "minecraft:wither_skeleton": "2025-01-02 00:11:41 +0000",
       "minecraft:husk": "2025-01-01 23:21:22 +0000",
       "minecraft:cave_spider": "2025-01-01 22:06:06 +0000",
@@ -6058,6 +6059,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-01-08 21:43:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-08 21:40:41 +0000"
@@ -6073,6 +6080,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-08 21:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-08 21:47:56 +0000"
     },
     "done": true
   },

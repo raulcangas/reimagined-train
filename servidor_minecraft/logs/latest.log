@@ -236,3 +236,5 @@
 [08Jan2025 21:38:58.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanrm04 lost connection: Disconnected
 [08Jan2025 21:38:58.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 left the game
 [08Jan2025 21:39:44.657] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59911b19[id=<null>,name=Ivanrm04,properties={},legacy=false] (/172.29.111.180:63992) lost connection: Disconnected
+[08Jan2025 21:43:05.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Helen the Happiness Advocate'/42072, l='ServerLevel[world]', x=3393.43, y=54.00, z=10.51] died: Helen the Happiness Advocate was slain by xItzDani
+[08Jan2025 21:50:20.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Feddie the ... Something'/43389, l='ServerLevel[world]', x=3418.30, y=-9.00, z=135.70] died: Feddie the ... Something was slain by xItzDani
