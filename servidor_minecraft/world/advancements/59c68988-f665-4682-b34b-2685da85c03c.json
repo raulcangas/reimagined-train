@@ -6156,5 +6156,11 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-01-08 01:26:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
