@@ -26,9 +26,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-31 01:24:59 +0000",
+      "minecraft:deep_ocean": "2025-01-08 21:16:00 +0000",
       "minecraft:eroded_badlands": "2024-12-30 23:47:13 +0000",
+      "minecraft:frozen_river": "2025-01-08 21:27:03 +0000",
       "minecraft:cherry_grove": "2025-01-01 21:26:32 +0000",
       "minecraft:sunflower_plains": "2025-01-01 22:46:08 +0000",
+      "minecraft:birch_forest": "2025-01-08 21:10:48 +0000",
       "minecraft:badlands": "2024-12-30 23:47:34 +0000",
       "minecraft:savanna_plateau": "2024-12-31 01:34:01 +0000",
       "minecraft:beach": "2024-12-30 23:59:54 +0000",
@@ -37,11 +40,17 @@
       "minecraft:river": "2024-12-30 23:40:05 +0000",
       "minecraft:lukewarm_ocean": "2025-01-08 20:58:24 +0000",
       "minecraft:stony_shore": "2025-01-08 21:01:12 +0000",
+      "minecraft:snowy_plains": "2025-01-08 21:26:50 +0000",
       "minecraft:dripstone_caves": "2024-12-31 00:24:30 +0000",
+      "minecraft:snowy_taiga": "2025-01-08 21:27:04 +0000",
+      "minecraft:cold_ocean": "2025-01-08 21:25:47 +0000",
       "minecraft:forest": "2024-12-30 23:48:17 +0000",
+      "minecraft:frozen_ocean": "2025-01-08 21:30:03 +0000",
       "minecraft:desert": "2024-12-30 23:45:31 +0000",
       "minecraft:jungle": "2024-12-31 00:01:06 +0000",
+      "minecraft:ocean": "2025-01-08 21:13:08 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-08 00:34:34 +0000",
+      "minecraft:snowy_beach": "2025-01-08 21:29:43 +0000",
       "minecraft:flower_forest": "2025-01-01 22:32:16 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-31 01:24:39 +0000",
       "minecraft:meadow": "2025-01-07 23:34:35 +0000",
@@ -558,6 +567,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-07 23:19:05 +0000",
       "cooked_mutton": "2025-01-02 00:18:07 +0000",
+      "sweet_berries": "2025-01-08 21:24:15 +0000",
       "cooked_beef": "2024-12-31 00:39:44 +0000",
       "mutton": "2025-01-08 00:36:14 +0000",
       "bread": "2025-01-01 22:09:58 +0000",
@@ -1886,6 +1896,7 @@
       "minecraft:enderman": "2024-12-31 01:03:56 +0000",
       "minecraft:silverfish": "2025-01-08 00:11:29 +0000",
       "minecraft:zombie": "2024-12-31 00:32:00 +0000",
+      "minecraft:drowned": "2025-01-08 21:15:34 +0000",
       "minecraft:zombie_villager": "2025-01-01 21:50:12 +0000"
     },
     "done": false
@@ -6164,33 +6175,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-01-08 20:39:11 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_pink": {
     "criteria": {
       "has_item": "2025-01-08 20:40:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-01-08 21:02:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-01-08 21:05:36 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/decorations/pink_shiny_flower": {
     "criteria": {
       "has_item": "2025-01-08 20:40:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-01-08 21:05:36 +0000"
     },
     "done": true
   },
@@ -6206,9 +6205,27 @@
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_shovel_repairing": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_diamond_shovel": "2025-01-08 20:39:11 +0000"
+      "has_poppy": "2025-01-08 21:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-08 21:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-08 21:05:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-08 21:24:01 +0000"
     },
     "done": true
   },

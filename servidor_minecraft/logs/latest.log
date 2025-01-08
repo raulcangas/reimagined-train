@@ -217,3 +217,19 @@
 [08Jan2025 21:05:32.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
 [08Jan2025 21:05:32.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
 [08Jan2025 21:05:32.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3369, y=61, z=-853} BlockPos{x=3368, y=61, z=-852}
+[08Jan2025 21:15:08.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4637ms or 92 ticks behind
+[08Jan2025 21:15:19.665] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Tyson the Funky'/22184, l='ServerLevel[world]', x=3358.33, y=63.00, z=1856.54] died: Tyson the Funky was slain by xItzDani
+[08Jan2025 21:16:08.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanrm04 lost connection: Disconnected
+[08Jan2025 21:16:08.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 left the game
+[08Jan2025 21:18:25.554] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@219aea13[id=<null>,name=Ivanrm04,properties={},legacy=false] (/172.29.111.180:62824) lost connection: Disconnected
+[08Jan2025 21:18:43.563] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ivanrm04 is 59c68988-f665-4682-b34b-2685da85c03c
+[08Jan2025 21:18:48.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ivanrm04[/172.29.111.180:62857] logged in with entity id 24071 at (3415.972218867789, 61.4901509019422, -2288.083441167137)
+[08Jan2025 21:18:48.140] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ivanrm04
+[08Jan2025 21:18:48.140] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ivanrm04
+[08Jan2025 21:18:48.141] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ivanrm04
+[08Jan2025 21:18:48.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ivanrm04
+[08Jan2025 21:18:48.144] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ivanrm04
+[08Jan2025 21:18:48.147] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ivanrm04
+[08Jan2025 21:18:48.147] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ivanrm04
+[08Jan2025 21:18:48.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 joined the game
+[08Jan2025 21:31:49.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36432, l='ServerLevel[world]', x=2785.72, y=89.56, z=-3967.37] died, message: 'Villager suffocated in a wall'

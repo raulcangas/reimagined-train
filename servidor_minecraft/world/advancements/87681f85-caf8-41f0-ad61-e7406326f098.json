@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:taiga": "2025-01-01 23:44:26 +0000",
       "minecraft:deep_ocean": "2024-12-30 23:55:59 +0000",
+      "minecraft:eroded_badlands": "2025-01-08 21:26:42 +0000",
       "minecraft:frozen_river": "2025-01-01 23:47:26 +0000",
       "minecraft:cherry_grove": "2024-12-31 00:21:07 +0000",
       "minecraft:sunflower_plains": "2024-12-31 00:35:40 +0000",
@@ -704,6 +705,7 @@
       "minecraft:cave_spider": "2025-01-01 22:06:06 +0000",
       "minecraft:piglin": "2025-01-02 00:06:14 +0000",
       "minecraft:silverfish": "2025-01-01 22:04:03 +0000",
+      "minecraft:enderman": "2025-01-08 21:16:45 +0000",
       "minecraft:zombie": "2024-12-30 23:46:53 +0000",
       "minecraft:drowned": "2025-01-07 23:37:10 +0000",
       "minecraft:zombie_villager": "2025-01-01 21:59:48 +0000"
@@ -5993,6 +5995,24 @@
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2025-01-08 00:07:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-01-08 21:10:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow_smithing": {
+    "criteria": {
+      "has_snow": "2025-01-08 21:16:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-01-08 21:15:20 +0000"
     },
     "done": true
   },
