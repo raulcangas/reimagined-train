@@ -1883,6 +1883,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-01-02 00:12:09 +0000",
+      "minecraft:pillager": "2025-01-08 22:00:47 +0000",
       "minecraft:skeleton": "2024-12-31 00:30:57 +0000",
       "minecraft:hoglin": "2025-01-02 00:09:47 +0000",
       "minecraft:magma_cube": "2025-01-02 00:20:41 +0000",
@@ -6225,6 +6226,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-08 21:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-01-08 21:34:20 +0000"
@@ -6243,15 +6250,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/fox": {
-    "criteria": {
-      "has_sweet_berries": "2025-01-08 21:24:01 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/iron_boots_repairing": {
     "criteria": {
       "has_iron_boots": "2025-01-08 21:34:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-01-08 22:01:03 +0000"
     },
     "done": true
   },
