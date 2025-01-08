@@ -6011,6 +6011,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/villager_smithing": {
+    "criteria": {
+      "has_villager": "2025-01-08 22:22:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-01-08 21:10:54 +0000"
