@@ -221,3 +221,6 @@
 [09Jan2025 21:30:03.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Hidden in the Depths]
 [09Jan2025 21:37:14.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanrm04 lost connection: Disconnected
 [09Jan2025 21:37:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 left the game
+[09Jan2025 21:48:44.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Madam Doomsday the Mean'/14187, l='ServerLevel[world]', x=3361.26, y=-30.00, z=65.51] died: Madam Doomsday the Mean was slain by xItzDani
+[09Jan2025 21:50:50.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xItzDani lost connection: Disconnected
+[09Jan2025 21:50:50.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani left the game
