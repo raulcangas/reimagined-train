@@ -219,3 +219,5 @@
 [09Jan2025 21:28:29.856] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [09Jan2025 21:28:29.857] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [09Jan2025 21:30:03.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Hidden in the Depths]
+[09Jan2025 21:37:14.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanrm04 lost connection: Disconnected
+[09Jan2025 21:37:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 left the game

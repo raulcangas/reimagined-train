@@ -6539,3 +6539,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jan2025 21:32:51.478] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
 [09Jan2025 21:32:51.483] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=93, y=71, z=-195} in ResourceKey[minecraft:dimension / minecraft:the_nether]
 [09Jan2025 21:32:51.484] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=93, y=71, z=-195} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[09Jan2025 21:36:22.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 21:36:22.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 21:37:14.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanrm04 lost connection: Disconnected
+[09Jan2025 21:37:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanrm04 left the game
+[09Jan2025 21:41:22.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 21:41:22.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 21:46:22.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 21:46:22.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
