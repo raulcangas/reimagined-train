@@ -6526,3 +6526,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jan2025 21:21:22.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jan2025 21:22:51.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/5690, l='ServerLevel[world]', x=272.55, y=58.00, z=-257.35] died: Withering Archer was slain by xItzDani
 [09Jan2025 21:23:39.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Not Today, Thank You]
+[09Jan2025 21:26:22.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 21:26:22.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 21:26:38.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Ben the Special'/6639, l='ServerLevel[world]', x=316.79, y=59.88, z=-322.60] died: Ben the Special was slain by xItzDani
+[09Jan2025 21:28:29.014] [Worker-Main-10/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Jan2025 21:28:29.855] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Jan2025 21:28:29.856] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Jan2025 21:28:29.857] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Jan2025 21:30:03.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Hidden in the Depths]
+[09Jan2025 21:31:22.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 21:31:22.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 21:32:51.478] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[09Jan2025 21:32:51.483] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=93, y=71, z=-195} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[09Jan2025 21:32:51.484] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=93, y=71, z=-195} in ResourceKey[minecraft:dimension / minecraft:the_nether]

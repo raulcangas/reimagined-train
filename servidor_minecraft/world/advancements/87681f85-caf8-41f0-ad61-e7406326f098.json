@@ -6210,9 +6210,27 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-09 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-09 21:30:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-09 21:30:03 +0000"
     },
     "done": true
   },
@@ -6252,6 +6270,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-01-09 21:22:38 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_dark": {
     "criteria": {
       "has_item": "2025-01-09 21:15:22 +0000"
@@ -6267,6 +6291,12 @@
   "botania:recipes/misc/quartz_sunny": {
     "criteria": {
       "has_item": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-09 21:30:03 +0000"
     },
     "done": true
   },

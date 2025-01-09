@@ -214,3 +214,8 @@
 [09Jan2025 21:17:20.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Epic!]
 [09Jan2025 21:22:51.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/5690, l='ServerLevel[world]', x=272.55, y=58.00, z=-257.35] died: Withering Archer was slain by xItzDani
 [09Jan2025 21:23:39.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Not Today, Thank You]
+[09Jan2025 21:26:38.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Ben the Special'/6639, l='ServerLevel[world]', x=316.79, y=59.88, z=-322.60] died: Ben the Special was slain by xItzDani
+[09Jan2025 21:28:29.855] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Jan2025 21:28:29.856] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Jan2025 21:28:29.857] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Jan2025 21:30:03.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Hidden in the Depths]
