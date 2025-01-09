@@ -208,3 +208,9 @@
 [09Jan2025 21:15:26.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=111, y=96, z=-211} BlockPos{x=111, y=96, z=-212}
 [09Jan2025 21:15:27.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=111, y=96, z=-211} BlockPos{x=111, y=96, z=-212}
 [09Jan2025 21:15:27.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=111, y=96, z=-211} BlockPos{x=111, y=96, z=-212}
+[09Jan2025 21:15:35.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=115, y=102, z=-215} BlockPos{x=114, y=102, z=-215}
+[09Jan2025 21:15:36.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=115, y=102, z=-215} BlockPos{x=114, y=102, z=-215}
+[09Jan2025 21:17:18.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Darko the Bishop'/2908, l='ServerLevel[world]', x=116.54, y=97.00, z=-214.30] died: Darko the Bishop was slain by xItzDani
+[09Jan2025 21:17:20.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Epic!]
+[09Jan2025 21:22:51.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/5690, l='ServerLevel[world]', x=272.55, y=58.00, z=-257.35] died: Withering Archer was slain by xItzDani
+[09Jan2025 21:23:39.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xItzDani has made the advancement [Not Today, Thank You]

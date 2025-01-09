@@ -699,6 +699,7 @@
       "minecraft:skeleton": "2024-12-30 23:47:09 +0000",
       "minecraft:hoglin": "2025-01-02 00:08:21 +0000",
       "minecraft:spider": "2024-12-30 23:47:50 +0000",
+      "minecraft:piglin_brute": "2025-01-09 21:17:18 +0000",
       "minecraft:creeper": "2024-12-31 01:10:52 +0000",
       "minecraft:witch": "2025-01-08 21:50:20 +0000",
       "minecraft:wither_skeleton": "2025-01-02 00:11:41 +0000",
@@ -6206,6 +6207,84 @@
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-01-08 22:57:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-09 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-01-09 21:17:20 +0000"
     },
     "done": true
   },
