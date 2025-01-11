@@ -2351,3 +2351,14 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [18:46:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
 [18:46:44] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
 [18:46:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[18:54:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Hot Stuff]
+[19:03:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[19:03:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 tried to swim in lava
+[19:03:55] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Ivanrm04 died in dimension 0 at BlockPos{x=96, y=62, z=1444}. Their grave may be near!
+[19:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Shinies Acquired!]
+[19:06:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
+[19:06:20] [File IO Thread/INFO] [FTB Backups]: Backing up 70 files...
+[19:06:20] [File IO Thread/INFO] [FTB Backups]: Compressing 70 files...
+[19:06:23] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:02 seconds (50.9MB)!
+[19:06:23] [File IO Thread/INFO] [FTB Backups]: Created /workspaces/reimagined-train/servidor_minecraft/./backups/2025-01-11-19-06-20.zip from /workspaces/reimagined-train/servidor_minecraft/./world
+[19:06:23] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:02! (50.9MB)
