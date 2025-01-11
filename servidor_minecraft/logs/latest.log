@@ -2338,3 +2338,10 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [18:09:11] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
 [18:10:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Diamonds!]
 [18:14:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Shinies Acquired!]
+[18:24:52] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
+[18:24:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[18:25:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Not Today, Thank You]
+[18:28:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[18:34:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[18:36:01] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
+[18:36:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
