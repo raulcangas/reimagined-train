@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-01-11 17:40:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-01-11 17:27:25 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "silentgems:chaos_flower_pot": {
+    "criteria": {
+      "get_flower": "2025-01-11 17:43:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-11 17:09:34 +0000"
@@ -185,6 +197,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-01-11 17:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-11 17:09:31 +0000"
@@ -206,6 +224,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-01-11 17:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-11 17:43:33 +0000"
     },
     "done": true
   },
@@ -287,6 +311,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-01-11 17:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-01-11 17:27:25 +0000"
@@ -359,6 +389,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-01-11 17:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-11 17:43:33 +0000"
     },
     "done": true
   },
@@ -512,6 +548,12 @@
     },
     "done": true
   },
+  "silentgems:get_glow_rose": {
+    "criteria": {
+      "get_items": "2025-01-11 17:43:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-11 17:24:34 +0000"
@@ -536,6 +578,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-01-11 17:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-01-11 17:27:25 +0000"
@@ -551,6 +599,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-11 17:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-01-11 17:40:50 +0000"
     },
     "done": true
   },
@@ -714,6 +768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-11 17:43:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-01-11 17:12:37 +0000"
@@ -786,6 +846,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-11 17:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-01-11 17:40:50 +0000"
     },
     "done": true
   },
