@@ -2329,3 +2329,12 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [18:04:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Acquire Hardware]
 [18:04:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Isn't It Iron Pick]
 [18:04:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Suit Up]
+[18:07:19] [Server thread/WARN] [FML]: Quark loaded a new chunk [-1, 119] in dimension 0 (overworld) while populating chunk [0, 120], causing cascading worldgen lag.
+[18:07:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:07:19] [Server thread/WARN] [FML]: Quark loaded a new chunk [-2, 118] in dimension 0 (overworld) while populating chunk [0, 120], causing cascading worldgen lag.
+[18:07:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:07:19] [Server thread/WARN] [FML]: Quark loaded a new chunk [-2, 117] in dimension 0 (overworld) while populating chunk [0, 120], causing cascading worldgen lag.
+[18:07:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:11] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[18:10:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Diamonds!]
+[18:14:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Shinies Acquired!]
