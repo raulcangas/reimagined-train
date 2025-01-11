@@ -1,0 +1,341 @@
+[PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+Jonathan McManus
+Ncc1702
+Spencer Gilbert
+NerdyWhiteGuy
+DreamThorn
+Hooley
+Phillip Swearingain
+Genryu
+Jordan Pineo
+Quaternary
+Peregrinus11
+Jellycraft
+Belathus
+Jessie Sims
+Ivy_
+Lucas
+Zuniroa
+NickT
+Pongo Sapiens
+embeddedt
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: atm3_misc.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: atm3_oredict_ores.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: atm3_oredict_wood.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: atm_general_akashictome.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 2ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: atm3_misc.zs}
+[INITIALIZATION][SERVER][INFO]  =================== ATM Misc =================== 
+[INITIALIZATION][SERVER][INFO]  ================================================ 
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <quark:enderdragon_scale>: "Can be used to DUPLICATE an Elytra"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: atm3_oredict_ores.zs}
+[INITIALIZATION][SERVER][INFO]  =================== ATC OreDict (ores) =================== 
+[INITIALIZATION][SERVER][INFO]  ========================================================== 
+[INITIALIZATION][SERVER][INFO] Adding Silver Ore to ore dictionary entry oreSilver
+[INITIALIZATION][SERVER][INFO] Adding Tin Ore to ore dictionary entry oreTin
+[INITIALIZATION][SERVER][INFO] Adding Copper Ore to ore dictionary entry oreCopper
+[INITIALIZATION][SERVER][INFO] Adding Lead Ore to ore dictionary entry oreLead
+[INITIALIZATION][SERVER][INFO] Adding Nickel Ore to ore dictionary entry oreNickel
+[INITIALIZATION][SERVER][INFO] Adding Bauxite Ore to ore dictionary entry oreAluminum
+[INITIALIZATION][SERVER][INFO] Adding Aluminum Ore to ore dictionary entry oreAluminum
+[INITIALIZATION][SERVER][INFO] Adding Aluminum Ore to ore dictionary entry oreBauxite
+[INITIALIZATION][SERVER][INFO] Adding Iridium Ore to ore dictionary entry oreIridium
+[INITIALIZATION][SERVER][INFO] Adding Coal Ore to ore dictionary entry oreCoal
+[INITIALIZATION][SERVER][INFO] Adding Diamond Ore to ore dictionary entry oreDiamond
+[INITIALIZATION][SERVER][INFO] Adding Emerald Ore to ore dictionary entry oreEmerald
+[INITIALIZATION][SERVER][INFO] Adding Redstone Ore to ore dictionary entry oreRedstone
+[INITIALIZATION][SERVER][INFO] Adding Nether Quartz Ore to ore dictionary entry oreQuartz
+[INITIALIZATION][SERVER][INFO] Adding Lapis Lazuli Ore to ore dictionary entry oreLapis
+[INITIALIZATION][SERVER][INFO] Adding Iron Ore to ore dictionary entry oreIron
+[INITIALIZATION][SERVER][INFO] Adding Gold Ore to ore dictionary entry oreGold
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: atm3_oredict_wood.zs}
+[INITIALIZATION][SERVER][INFO]  =================== ATC OreDict (wood) =================== 
+[INITIALIZATION][SERVER][INFO]  ========================================================== 
+[INITIALIZATION][SERVER][INFO] Adding Black Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Blue Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Brown Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Cyan Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Gray Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Green Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Light Blue Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Lime Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Magenta Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Orange Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Pink Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Purple Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Red Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Light Gray Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding White Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Yellow Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Black Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Blue Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Brown Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Cyan Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Gray Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Green Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Light Blue Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Lime Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Magenta Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Orange Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Pink Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Purple Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Red Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Light Gray Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical White Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Yellow Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding White Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Orange Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Magenta Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Light Blue Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Yellow Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Lime Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Pink Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Gray Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Light Gray Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Cyan Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Purple Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Blue Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Brown Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Green Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Red Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Black Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical White Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Orange Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Magenta Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Light Blue Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Yellow Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Lime Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Pink Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Gray Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Light Gray Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Cyan Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Purple Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Blue Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Brown Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Green Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Red Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Vertical Black Stained Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Fir Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Crafting Table On A Stick to ore dictionary entry craftingTableWood
+[INITIALIZATION][SERVER][INFO] Adding Crafting Table to ore dictionary entry craftingTableWood
+[INITIALIZATION][SERVER][INFO] Adding Crafting Table On A Stick to ore dictionary entry crafterWood
+[INITIALIZATION][SERVER][INFO] Adding Crafting Table to ore dictionary entry crafterWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Ender Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Oak Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Treasure Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Spruce Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Birch Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Jungle Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Acacia Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Spruce Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Birch Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Jungle Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Acacia Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Oak Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][SERVER][INFO] Adding Spruce Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][SERVER][INFO] Adding Birch Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][SERVER][INFO] Adding Jungle Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][SERVER][INFO] Adding Acacia Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][SERVER][INFO] Adding White Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Orange Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Magenta Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Light Blue Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Yellow Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Lime Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Pink Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Gray Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Light Gray Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Cyan Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Purple Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Blue Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Brown Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Green Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Red Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Black Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Oak Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Fir Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: atm_general_akashictome.zs}
+[INITIALIZATION][SERVER][INFO]  =================== Akashic Tome =================== 
+[INITIALIZATION][SERVER][INFO]  ==================================================== 
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <akashictome:tome>.withTag({"akashictome:is_morphing": 1 as byte, "akashictome:data": {tconstruct: {id: "tconstruct:book", Count: 1 as byte, tag: {"akashictome:definedMod": "tconstruct"}, Damage: 0 as short}, valkyrie: {id: "valkyrielib:guide", Count: 1 as byte, tag: {"akashictome:definedMod": "valkyrie"}, Damage: 0 as short}, industrialforegoing: {id: "industrialforegoing:book_manual", Count: 1 as byte, tag: {"akashictome:definedMod": "industrialforegoing"}, Damage: 0 as short}, botania: {id: "botania:lexicon", Count: 1 as byte, tag: {"akashictome:definedMod": "botania"}, Damage: 0 as short}, integratedtunnels: {id: "integrateddynamics:on_the_dynamics_of_integration", Count: 1 as byte, tag: {"akashictome:definedMod": "integratedtunnels"}, Damage: 0 as short}, silentgems: {id: "silentgems:guide_book", Count: 1 as byte, tag: {"akashictome:definedMod": "silentgems"}, Damage: 0 as short}, astralsorcery: {id: "astralsorcery:itemjournal", Count: 1 as byte, tag: {"akashictome:definedMod": "astralsorcery"}, Damage: 0 as short}, conarm: {id: "conarm:book", Count: 1 as byte, tag: {"akashictome:definedMod": "conarm"}, Damage: 0 as short}, extrautils2: {id: "extrautils2:book", Count: 1 as byte, tag: {"akashictome:definedMod": "extrautils2"}, Damage: 0 as short}, thermalfoundation: {id: "thermalfoundation:tome_lexicon", Count: 1 as byte, tag: {"akashictome:definedMod": "thermalfoundation"}, Damage: 0 as short}, immersiveengineering: {id: "immersiveengineering:tool", Count: 1 as byte, tag: {"akashictome:definedMod": "immersiveengineering"}, Damage: 3 as short}, actuallyadditions: {id: "actuallyadditions:item_booklet", Count: 1 as byte, tag: {"akashictome:definedMod": "actuallyadditions"}, Damage: 0 as short}}}): "Contains all basic mod manuals/guides already included"
+[INITIALIZATION][SERVER][INFO] Adding 1 Initial Inventory Recipe(s) for <akashictome:tome>.withTag({"akashictome:is_morphing": 1 as byte, "akashictome:data": {tconstruct: {id: "tconstruct:book", Count: 1 as byte, tag: {"akashictome:definedMod": "tconstruct"}, Damage: 0 as short}, valkyrie: {id: "valkyrielib:guide", Count: 1 as byte, tag: {"akashictome:definedMod": "valkyrie"}, Damage: 0 as short}, industrialforegoing: {id: "industrialforegoing:book_manual", Count: 1 as byte, tag: {"akashictome:definedMod": "industrialforegoing"}, Damage: 0 as short}, botania: {id: "botania:lexicon", Count: 1 as byte, tag: {"akashictome:definedMod": "botania"}, Damage: 0 as short}, integratedtunnels: {id: "integrateddynamics:on_the_dynamics_of_integration", Count: 1 as byte, tag: {"akashictome:definedMod": "integratedtunnels"}, Damage: 0 as short}, silentgems: {id: "silentgems:guide_book", Count: 1 as byte, tag: {"akashictome:definedMod": "silentgems"}, Damage: 0 as short}, astralsorcery: {id: "astralsorcery:itemjournal", Count: 1 as byte, tag: {"akashictome:definedMod": "astralsorcery"}, Damage: 0 as short}, conarm: {id: "conarm:book", Count: 1 as byte, tag: {"akashictome:definedMod": "conarm"}, Damage: 0 as short}, extrautils2: {id: "extrautils2:book", Count: 1 as byte, tag: {"akashictome:definedMod": "extrautils2"}, Damage: 0 as short}, thermalfoundation: {id: "thermalfoundation:tome_lexicon", Count: 1 as byte, tag: {"akashictome:definedMod": "thermalfoundation"}, Damage: 0 as short}, immersiveengineering: {id: "immersiveengineering:tool", Count: 1 as byte, tag: {"akashictome:definedMod": "immersiveengineering"}, Damage: 3 as short}, actuallyadditions: {id: "actuallyadditions:item_booklet", Count: 1 as byte, tag: {"akashictome:definedMod": "actuallyadditions"}, Damage: 0 as short}}}):-1
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <tconstruct:book>: "Included within the "default" Akashic Tome"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <astralsorcery:itemjournal>: "Included within the "default" Akashic Tome"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <immersiveengineering:tool:3>: "Included within the "default" Akashic Tome"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <botania:lexicon>: "Included within the "default" Akashic Tome"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <extrautils2:book>: "Included within the "default" Akashic Tome"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <thermalfoundation:tome_lexicon>: "Included within the "default" Akashic Tome"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <actuallyadditions:item_booklet>: "Included within the "default" Akashic Tome"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <silentgems:guide_book>: "Included within the "default" Akashic Tome"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <conarm:book>: "Included within the "default" Akashic Tome"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <integrateddynamics:on_the_dynamics_of_integration>: "Included within the "default" Akashic Tome"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <valkyrielib:guide>: "Included within the "default" Akashic Tome"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <industrialforegoing:book_manual>: "Included within the "default" Akashic Tome"
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 363ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <quark:marble:1>
+[POSTINITIALIZATION][SERVER][INFO] 1 removed
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Polished Marble with name marble
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Plate with name quarkdecorfixiron
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Crafting Table with name newcraftingtable
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dragon Egg with name DragonEgg
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Elytra with name Elytra
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pulverized Aluminum with name AluminumDust
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Silver Ore with name silverconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Tin Ore with name tinconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Copper Ore with name copperconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lead Ore with name leadconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Nickel Ore with name nickelconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Aluminum Ore with name aluminumconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iridium Ore with name iridiumconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Coal Ore with name coalconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Diamond Ore with name diamondconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Emerald Ore with name emeraldconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Redstone Ore with name redstoneconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Nether Quartz Ore with name netherquartzconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lapis Lazuli Ore with name lapisconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iron Ore with name ironconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Gold Ore with name goldconvert
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Oak Trapdoor with name trapdoororedict1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Oak Trapped Chest with name trappedchestoredict1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Oak Chest with name chestoredict1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for White Bed with name bedoredict1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Oak Door with name wooddoororedict1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Akashic Tome with name ct_shapeless1410750975
