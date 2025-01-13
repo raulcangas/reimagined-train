@@ -2209,3 +2209,8 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [21:35:40] [Server thread/INFO] [Astral Sorcery]: Loading of 'structures' for world 0 finished.
 [21:35:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Rubber Sap]
 [21:36:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[21:42:27] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
+[21:42:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[21:46:34] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table enderio:infinity/minecraft/bedrock
+[21:46:34] [Server thread/INFO] [enderio]: Would have used loot table enderio:infinity/minecraft/bedrock for infinity crafting but it doesn't exist.
+[21:46:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Collect the Infinite]

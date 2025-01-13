@@ -684,6 +684,8 @@
   },
   "silentgems:gem_all_gems_overworld": {
     "criteria": {
+      "gem15": "2025-01-13 21:47:57 +0000",
+      "gem3": "2025-01-13 21:41:20 +0000",
       "gem9": "2025-01-11 18:14:08 +0000"
     },
     "done": false
@@ -925,6 +927,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-01-11 17:43:33 +0000"
+    },
+    "done": true
+  },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-01-13 21:46:55 +0000"
     },
     "done": true
   },
@@ -1326,6 +1334,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-11 18:13:36 +0000"
+    },
+    "done": true
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2025-01-13 21:41:35 +0000"
     },
     "done": true
   },
