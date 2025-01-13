@@ -2200,3 +2200,12 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [21:24:35] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Ivanrm04...
 [21:24:35] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Ivanrm04
 [21:30:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Arboreally Mechanical]
+[21:31:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Diamonds!]
+[21:31:06] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
+[21:31:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[21:31:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[21:34:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [TreeTap]
+[21:35:40] [Server thread/INFO] [Astral Sorcery]: Load CachedWorldData 'structures' for world 0
+[21:35:40] [Server thread/INFO] [Astral Sorcery]: Loading of 'structures' for world 0 finished.
+[21:35:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Rubber Sap]
+[21:36:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
