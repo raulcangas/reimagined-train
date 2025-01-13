@@ -358,6 +358,7 @@
   },
   "silentgems:gem_all_gems_nether": {
     "criteria": {
+      "gem10": "2025-01-13 23:52:28 +0000",
       "gem11": "2025-01-13 23:38:19 +0000"
     },
     "done": false

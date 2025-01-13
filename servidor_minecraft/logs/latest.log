@@ -2312,3 +2312,32 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [23:42:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [23:42:31] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
 [23:42:32] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:42:33] [Thread-33/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[23:43:00] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634b5c0)
+[23:43:00] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[23:43:00] [Thread-34/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[23:44:16] [Server thread/WARN] [FML]: Quark loaded a new chunk [-16, 11] in dimension -1 (the_nether) while populating chunk [-16, 10], causing cascading worldgen lag.
+[23:44:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:45:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[23:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 was slain by Firebat
+[23:45:42] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Ivanrm04 died in dimension -1 at BlockPos{x=19, y=44, z=145}. Their grave may be near!
+[23:45:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani tried to swim in lava
+[23:45:54] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: xItzDani died in dimension -1 at BlockPos{x=-146, y=31, z=321}. Their grave may be near!
+[23:45:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[23:45:56] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:45:57] [Thread-34/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[23:46:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[23:46:52] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634b5c0)
+[23:46:52] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[23:46:52] [Thread-35/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[23:48:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani burned to death
+[23:48:57] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: xItzDani died in dimension -1 at BlockPos{x=-146, y=34, z=322}. Their grave may be near!
+[23:48:58] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[23:48:59] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:49:00] [Thread-35/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[23:49:14] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634b5c0)
+[23:49:14] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[23:49:14] [Thread-36/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[23:49:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved too quickly! -255.04278743777218,12.0,-1614.1636253848628
+[23:50:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani fell from a high place
+[23:50:02] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: xItzDani died in dimension -1 at BlockPos{x=-111, y=34, z=244}. Their grave may be near!
