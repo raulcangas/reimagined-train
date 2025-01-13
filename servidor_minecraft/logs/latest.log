@@ -2224,3 +2224,17 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [22:16:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Chewing Dead Wood]
 [22:17:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
 [22:20:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[22:24:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [The Third 'S' is Silent]
+[22:25:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[22:25:10] [Server thread/WARN] [FML]: Quark loaded a new chunk [-17, 113] in dimension 0 (overworld) while populating chunk [-16, 113], causing cascading worldgen lag.
+[22:25:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:25:10] [Server thread/WARN] [FML]: Quark loaded a new chunk [-18, 113] in dimension 0 (overworld) while populating chunk [-16, 113], causing cascading worldgen lag.
+[22:25:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Geologically Mechanical]
+[22:25:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Sky of Beginning]
+[22:27:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[22:27:11] [Server thread/INFO] [morpheus]: Ivanrm04 is now sleeping. 1/2 (50%)
+[22:27:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[22:28:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Ferrously Mechanical]
+[22:28:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Harness the Heat]
+[22:29:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Alloys and Enemies]

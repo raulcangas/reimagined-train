@@ -209,9 +209,21 @@
     },
     "done": true
   },
+  "enderiomachines:basics/alloy/1_alloy_smelter_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_alloy_smelter": "2025-01-13 22:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-11 18:48:26 +0000"
+    },
+    "done": true
+  },
+  "enderio:gears/g3_iron_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-01-13 22:28:20 +0000"
     },
     "done": true
   },
@@ -586,6 +598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-01-13 22:24:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-01-11 17:12:37 +0000"
@@ -828,6 +846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-01-13 22:24:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-11 17:22:59 +0000"
@@ -851,6 +875,13 @@
       "has_black_dye": "2025-01-11 18:28:22 +0000"
     },
     "done": true
+  },
+  "enderiomachines:basics/goal/1_all_simple_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_stirling_generator": "2025-01-13 22:28:46 +0000",
+      "inv_changed-enderio:block_simple_alloy_smelter": "2025-01-13 22:29:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
@@ -933,6 +964,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-01-11 17:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-13 22:21:57 +0000"
     },
     "done": true
   },
@@ -1104,6 +1141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-13 22:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-01-11 17:19:12 +0000"
@@ -1128,6 +1171,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/stirling/1_stirling_generator_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_stirling_generator": "2025-01-13 22:28:46 +0000"
+    },
+    "done": true
+  },
   "silentgems:get_soul_gem": {
     "criteria": {
       "get_item": "2025-01-11 17:13:38 +0000"
@@ -1149,6 +1198,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2025-01-11 17:30:23 +0000"
+    },
+    "done": true
+  },
+  "enderio:gears/g2_stone_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-01-13 22:25:51 +0000"
     },
     "done": true
   },
@@ -1259,9 +1314,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2025-01-13 22:28:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-11 18:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-13 22:21:57 +0000"
     },
     "done": true
   },
@@ -1331,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-01-13 22:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-11 17:22:59 +0000"
@@ -1367,6 +1440,12 @@
     },
     "done": true
   },
+  "enderio:start/2_simple_chassis_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-01-13 22:24:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-01-11 17:27:25 +0000"
@@ -1400,6 +1479,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-01-11 17:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-01-13 22:24:43 +0000"
     },
     "done": true
   },
