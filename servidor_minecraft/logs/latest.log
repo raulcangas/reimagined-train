@@ -2249,3 +2249,24 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [22:38:21] [Server thread/INFO] [morpheus]: Ivanrm04 is now sleeping. 1/2 (50%)
 [22:38:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
 [22:39:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Chewing Dead Wood]
+[22:45:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved too quickly! 2.731922264923412,-9.057221518779244,7.371977295207898
+[22:45:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [TreeTap]
+[22:45:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Rubber Sap]
+[22:46:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[22:49:06] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
+[22:49:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[22:55:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Hot Stuff]
+[22:55:50] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634b5c0)
+[22:55:50] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[22:55:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [We Need to Go Deeper]
+[22:55:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2999ms behind, skipping 59 tick(s)
+[22:55:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved too quickly! 11.6512718383932,2.6710414599765926,-3.8126203620352044
+[22:55:53] [Thread-31/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[22:55:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved too quickly! -255.02837551191112,12.0,-1612.0086757657014
+[22:55:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[22:58:25] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[22:58:26] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:58:27] [Thread-31/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[22:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [I Am Not Grout!]
+[23:00:08] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
+[23:00:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!

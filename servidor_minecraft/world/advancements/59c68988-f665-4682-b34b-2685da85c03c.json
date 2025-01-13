@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "techreborn:tree_tap": {
+    "criteria": {
+      "treetap_in_inventory": "2025-01-13 22:45:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-11 17:24:34 +0000"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-13 22:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-01-11 17:22:59 +0000"
@@ -335,6 +347,12 @@
   "enderiomachines:basics/sagmill/1_sagmill_get": {
     "criteria": {
       "inv_changed-enderio:block_simple_sag_mill": "2025-01-13 22:33:29 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:start/1_binder_composite": {
+    "criteria": {
+      "inv_changed-enderio:binder_composite": "2025-01-13 22:58:49 +0000"
     },
     "done": true
   },
@@ -911,6 +929,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-01-11 17:27:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:sap": {
+    "criteria": {
+      "treetap_in_inventory": "2025-01-13 22:45:12 +0000"
     },
     "done": true
   },
