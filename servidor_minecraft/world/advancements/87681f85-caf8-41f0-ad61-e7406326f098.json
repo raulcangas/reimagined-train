@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/alloy/1_alloy_smelter_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_alloy_smelter": "2025-01-13 23:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-11 18:28:49 +0000"
@@ -754,6 +760,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-01-11 17:10:47 +0000",
+      "blaze": "2025-01-13 23:23:39 +0000",
       "cave_spider": "2025-01-11 18:09:08 +0000",
       "zombie": "2025-01-11 17:10:00 +0000",
       "spider": "2025-01-11 17:10:03 +0000",
@@ -764,6 +771,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-01-11 18:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 23:24:40 +0000"
     },
     "done": true
   },
@@ -928,6 +941,12 @@
       "has_lapis": "2025-01-11 18:13:33 +0000"
     },
     "done": true
+  },
+  "enderiomachines:basics/goal/1_all_simple_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_alloy_smelter": "2025-01-13 23:30:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
@@ -1277,9 +1296,21 @@
     },
     "done": true
   },
+  "enderioconduits:start/2_conduit_binder": {
+    "criteria": {
+      "inv_changed-enderio:conduit_binder": "2025-01-13 23:29:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-01-11 18:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 23:24:40 +0000"
     },
     "done": true
   },
@@ -1513,6 +1544,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-11 17:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 23:24:40 +0000"
     },
     "done": true
   },
