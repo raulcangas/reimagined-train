@@ -640,6 +640,12 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit2": "2025-01-13 23:15:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-01-11 17:22:59 +0000"
@@ -1184,6 +1190,12 @@
     },
     "done": true
   },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2025-01-13 23:15:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-11 17:09:34 +0000"
@@ -1277,6 +1289,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-01-11 17:22:59 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:start/2_conduit_binder": {
+    "criteria": {
+      "inv_changed-enderio:conduit_binder": "2025-01-13 23:15:42 +0000"
     },
     "done": true
   },
