@@ -784,6 +784,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-01-13 22:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-11 18:28:49 +0000"
