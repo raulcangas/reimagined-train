@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-13 23:32:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:tree_tap": {
     "criteria": {
       "treetap_in_inventory": "2025-01-13 22:45:11 +0000"
@@ -350,6 +356,12 @@
     },
     "done": true
   },
+  "silentgems:gem_all_gems_nether": {
+    "criteria": {
+      "gem11": "2025-01-13 23:38:19 +0000"
+    },
+    "done": false
+  },
   "enderioconduits:start/1_binder_composite": {
     "criteria": {
       "inv_changed-enderio:binder_composite": "2025-01-13 22:58:49 +0000"
@@ -547,6 +559,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-11 17:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-01-13 23:42:06 +0000"
     },
     "done": true
   },
@@ -762,6 +780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-13 23:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-11 18:48:26 +0000"
@@ -772,9 +796,11 @@
     "criteria": {
       "zombie_villager": "2025-01-11 17:12:31 +0000",
       "skeleton": "2025-01-11 17:12:20 +0000",
+      "blaze": "2025-01-13 23:34:16 +0000",
       "zombie": "2025-01-11 17:12:21 +0000",
       "witch": "2025-01-11 18:41:15 +0000",
       "spider": "2025-01-11 17:30:22 +0000",
+      "ghast": "2025-01-13 23:42:06 +0000",
       "creeper": "2025-01-11 18:23:00 +0000",
       "enderman": "2025-01-11 18:21:02 +0000"
     },
@@ -783,6 +809,18 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-01-13 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 23:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-13 23:32:47 +0000"
     },
     "done": true
   },
@@ -909,6 +947,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-01-11 17:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-13 23:34:17 +0000"
     },
     "done": true
   },
@@ -1148,6 +1192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-13 23:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-01-11 17:22:59 +0000"
@@ -1238,6 +1288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-13 23:34:17 +0000"
+    },
+    "done": true
+  },
   "silentgems:get_soul_gem": {
     "criteria": {
       "get_item": "2025-01-11 17:13:38 +0000"
@@ -1298,6 +1354,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-13 23:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-01-11 17:49:29 +0000"
@@ -1313,6 +1375,12 @@
   "minecraft:recipes/decorations/green_carpet": {
     "criteria": {
       "has_green_wool": "2025-01-11 17:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 23:33:43 +0000"
     },
     "done": true
   },
@@ -1540,6 +1608,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-11 17:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 23:33:43 +0000"
     },
     "done": true
   },

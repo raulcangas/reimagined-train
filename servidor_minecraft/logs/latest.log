@@ -2293,3 +2293,22 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [23:29:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Universal Binder]
 [23:29:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
 [23:30:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Alloys and Enemies]
+[23:32:46] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634b5c0)
+[23:32:46] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[23:32:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [We Need to Go Deeper]
+[23:32:47] [Thread-33/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[23:32:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved too quickly! -254.84763595637918,12.0,-1611.966972553255
+[23:34:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[23:34:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Into Fire]
+[23:34:29] [Server thread/WARN] [FML]: Quark loaded a new chunk [11, -6] in dimension -1 (the_nether) while populating chunk [10, -6], causing cascading worldgen lag.
+[23:34:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:34:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Basic Energy]
+[23:42:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has completed the challenge [Return to Sender]
+[23:42:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[23:42:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[23:42:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 was blown up by Nitro Creeper
+[23:42:28] [Server thread/INFO] [enderio]: Galacticraft inventory inaccessable. Most likely because it is not installed.
+[23:42:28] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Ivanrm04 died in dimension -1 at BlockPos{x=302, y=37, z=301}. Their grave may be near!
+[23:42:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:42:31] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[23:42:32] [Server thread/INFO] [FML]: Unloading dimension -1
