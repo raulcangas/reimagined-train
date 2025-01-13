@@ -332,6 +332,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/1_sagmill_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_sag_mill": "2025-01-13 22:33:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-11 17:19:12 +0000"
@@ -786,6 +792,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-01-13 22:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-11 18:48:26 +0000"
@@ -878,10 +890,11 @@
   },
   "enderiomachines:basics/goal/1_all_simple_get": {
     "criteria": {
+      "inv_changed-enderio:block_simple_sag_mill": "2025-01-13 22:33:29 +0000",
       "inv_changed-enderio:block_simple_stirling_generator": "2025-01-13 22:28:46 +0000",
       "inv_changed-enderio:block_simple_alloy_smelter": "2025-01-13 22:29:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {

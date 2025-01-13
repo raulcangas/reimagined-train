@@ -2238,3 +2238,14 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [22:28:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Ferrously Mechanical]
 [22:28:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Harness the Heat]
 [22:29:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Alloys and Enemies]
+[22:33:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Semi-Autogenous Grinding]
+[22:33:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has reached the goal [Start at the Beginning]
+[22:34:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [37, 127] in dimension 0 (overworld) while populating chunk [37, 126], causing cascading worldgen lag.
+[22:34:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:34:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [36, 127] in dimension 0 (overworld) while populating chunk [37, 126], causing cascading worldgen lag.
+[22:34:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:36:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[22:38:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[22:38:21] [Server thread/INFO] [morpheus]: Ivanrm04 is now sleeping. 1/2 (50%)
+[22:38:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[22:39:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Chewing Dead Wood]

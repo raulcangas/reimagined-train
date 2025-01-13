@@ -426,6 +426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-13 22:32:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-11 18:28:49 +0000"
@@ -716,7 +722,8 @@
   },
   "silentgems:gem_all_gems_overworld": {
     "criteria": {
-      "gem10": "2025-01-11 19:05:11 +0000"
+      "gem10": "2025-01-11 19:05:11 +0000",
+      "gem5": "2025-01-13 22:35:41 +0000"
     },
     "done": false
   },
