@@ -679,6 +679,7 @@
   },
   "enderioconduits:goals/all_conduits": {
     "criteria": {
+      "inv_changed-enderio:liquid_conduit2": "2025-01-14 00:40:57 +0000",
       "inv_changed-enderio:power_conduit2": "2025-01-13 23:15:53 +0000"
     },
     "done": false
@@ -1467,6 +1468,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2025-01-13 23:59:48 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2025-01-14 00:40:57 +0000"
     },
     "done": true
   },

@@ -64,3 +64,14 @@
 [00:33:51] [Thread-41/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
 [00:34:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xItzDani lost connection: Disconnected
 [00:34:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani left the game
+[00:40:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Basic Fluid]
+[00:41:27] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634b5c0)
+[00:41:27] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[00:41:28] [Thread-42/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[00:41:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved too quickly! -242.75593097656923,-24.0,-1601.0
+[00:43:58] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[00:43:58] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:43:59] [Thread-42/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:46:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634b5c0)
+[00:46:22] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[00:46:22] [Thread-43/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
