@@ -2267,3 +2267,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [21:19:19] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
 [21:19:20] [Server thread/INFO] [FML]: Unloading dimension -1
 [21:19:21] [Thread-40/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[21:20:46] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[21:21:34] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
+[21:21:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
