@@ -107,15 +107,15 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-01-13 23:32:47 +0000"
-    },
-    "done": true
-  },
   "techreborn:tree_tap": {
     "criteria": {
       "treetap_in_inventory": "2025-01-13 22:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-13 23:32:47 +0000"
     },
     "done": true
   },
@@ -338,15 +338,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-01-13 23:56:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-01-13 21:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-13 23:56:14 +0000"
     },
     "done": true
   },
@@ -368,18 +368,18 @@
     },
     "done": true
   },
+  "enderioconduits:start/1_binder_composite": {
+    "criteria": {
+      "inv_changed-enderio:binder_composite": "2025-01-13 22:58:49 +0000"
+    },
+    "done": true
+  },
   "silentgems:gem_all_gems_nether": {
     "criteria": {
       "gem10": "2025-01-13 23:52:28 +0000",
       "gem11": "2025-01-13 23:38:19 +0000"
     },
     "done": false
-  },
-  "enderioconduits:start/1_binder_composite": {
-    "criteria": {
-      "inv_changed-enderio:binder_composite": "2025-01-13 22:58:49 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
@@ -799,15 +799,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick": {
-    "criteria": {
-      "has_nether_wart": "2025-01-13 23:56:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-01-13 23:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2025-01-13 23:56:14 +0000"
     },
     "done": true
   },
@@ -839,15 +839,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-13 23:33:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-01-13 23:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 23:33:43 +0000"
     },
     "done": true
   },
@@ -1099,15 +1099,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-01-13 22:21:57 +0000"
-    },
-    "done": true
-  },
   "enderio:start/1_infinity_powder_get": {
     "criteria": {
       "inv_changed-enderio:item_material": "2025-01-13 21:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-13 22:21:57 +0000"
     },
     "done": true
   },
