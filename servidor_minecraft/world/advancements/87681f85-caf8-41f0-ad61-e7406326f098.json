@@ -1451,6 +1451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-14 22:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "zombie": "2025-01-11 17:10:00 +0000"
@@ -1512,6 +1518,7 @@
       "birch_forest": "2025-01-11 17:13:32 +0000",
       "deep_ocean": "2025-01-11 17:22:42 +0000",
       "beaches": "2025-01-11 17:20:59 +0000",
+      "extreme_hills_with_trees": "2025-01-14 22:30:59 +0000",
       "forest_hills": "2025-01-11 17:08:30 +0000",
       "plains": "2025-01-11 17:11:36 +0000",
       "birch_forest_hills": "2025-01-13 22:44:41 +0000",

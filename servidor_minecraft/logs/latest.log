@@ -2309,3 +2309,17 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [22:28:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
 [22:28:35] [Server thread/INFO] [FML]: Unloading dimension -1
 [22:28:36] [Thread-42/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[22:30:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[22:30:54] [Server thread/WARN] [FML]: Quark loaded a new chunk [46, 91] in dimension 0 (overworld) while populating chunk [47, 91], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:31:42] [Server thread/INFO] [morpheus]: Ivanrm04 is now sleeping. 1/2 (50%)
+[22:31:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[22:37:34] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7e743032)
+[22:37:34] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[22:37:34] [Thread-43/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[22:38:41] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[22:38:41] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:38:42] [Thread-43/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[22:40:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
+[22:40:31] [File IO Thread/INFO] [FTB Backups]: Backing up 92 files...
+[22:40:31] [File IO Thread/INFO] [FTB Backups]: Compressing 92 files...
