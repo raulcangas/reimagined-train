@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-14 20:50:39 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2025-01-11 17:07:08 +0000"
@@ -814,6 +820,7 @@
       "blaze": "2025-01-13 23:23:39 +0000",
       "cave_spider": "2025-01-11 18:09:08 +0000",
       "zombie": "2025-01-11 17:10:00 +0000",
+      "witch": "2025-01-14 20:50:27 +0000",
       "spider": "2025-01-11 17:10:03 +0000",
       "creeper": "2025-01-11 17:34:37 +0000"
     },
@@ -1152,6 +1159,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-11 18:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-01-14 20:50:39 +0000"
     },
     "done": true
   },

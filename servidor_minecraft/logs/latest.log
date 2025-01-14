@@ -2210,3 +2210,14 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [20:46:39] [Server thread/INFO] [Astral Sorcery]: Load CachedWorldData 'structures' for world 0
 [20:46:39] [Server thread/INFO] [Astral Sorcery]: Loading of 'structures' for world 0 finished.
 [20:48:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[20:50:49] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[20:50:49] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:50:51] [Thread-33/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[20:52:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [45, 102] in dimension 0 (overworld) while populating chunk [45, 101], causing cascading worldgen lag.
+[20:52:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:52:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani was shot by Skeleton
+[20:52:48] [Server thread/INFO] [enderio]: Galacticraft inventory inaccessable. Most likely because it is not installed.
+[20:52:48] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: xItzDani died in dimension 0 at BlockPos{x=650, y=77, z=1797}. Their grave may be near!
+[20:56:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[20:58:58] [Server thread/WARN] [FML]: Quark loaded a new chunk [52, 118] in dimension 0 (overworld) while populating chunk [52, 117], causing cascading worldgen lag.
+[20:58:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
