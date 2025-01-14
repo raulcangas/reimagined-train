@@ -75,3 +75,41 @@
 [00:46:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634b5c0)
 [00:46:22] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
 [00:46:22] [Thread-43/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[00:49:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 burned to death
+[00:49:59] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Ivanrm04 died in dimension -1 at BlockPos{x=-5, y=31, z=272}. Their grave may be near!
+[00:53:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 tried to swim in lava
+[00:53:29] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Ivanrm04 died in dimension -1 at BlockPos{x=-5, y=27, z=271}. Their grave may be near!
+[00:53:46] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[00:53:46] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:53:47] [Thread-43/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:53:55] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634b5c0)
+[00:53:55] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[00:53:55] [Thread-44/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[00:54:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 burned to death
+[00:54:23] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Ivanrm04 died in dimension -1 at BlockPos{x=-5, y=31, z=271}. Their grave may be near!
+[00:54:40] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[00:54:40] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:54:41] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634b5c0)
+[00:54:41] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[00:54:42] [Thread-44/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:54:42] [Thread-45/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[00:56:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[00:56:56] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:56:57] [Thread-45/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:57:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 lost connection: Disconnected
+[00:57:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 left the game
+[00:57:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:57:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:57:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:57:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:57:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:57:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[00:57:07] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[00:57:07] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
+[00:57:07] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:57:07] [Server thread/INFO] [FML]: Unloading dimension -9999
+[00:57:07] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
+[00:57:07] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 2 data blobs
+[00:57:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:57:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:57:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
