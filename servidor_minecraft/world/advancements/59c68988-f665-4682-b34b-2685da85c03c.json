@@ -821,6 +821,7 @@
     "criteria": {
       "wither_skeleton": "2025-01-13 23:56:23 +0000",
       "zombie_villager": "2025-01-11 17:12:31 +0000",
+      "magma_cube": "2025-01-14 00:04:15 +0000",
       "skeleton": "2025-01-11 17:12:20 +0000",
       "blaze": "2025-01-13 23:34:16 +0000",
       "zombie": "2025-01-11 17:12:21 +0000",
@@ -1311,6 +1312,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-11 17:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2025-01-14 00:04:17 +0000"
     },
     "done": true
   },
