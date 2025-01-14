@@ -2221,3 +2221,24 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [20:56:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
 [20:58:58] [Server thread/WARN] [FML]: Quark loaded a new chunk [52, 118] in dimension 0 (overworld) while populating chunk [52, 117], causing cascading worldgen lag.
 [20:58:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:59:10] [Server thread/WARN] [FML]: Quark loaded a new chunk [56, 103] in dimension 0 (overworld) while populating chunk [55, 103], causing cascading worldgen lag.
+[20:59:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:59:10] [Server thread/WARN] [FML]: Quark loaded a new chunk [56, 102] in dimension 0 (overworld) while populating chunk [55, 103], causing cascading worldgen lag.
+[20:59:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:59:10] [Server thread/WARN] [FML]: Quark loaded a new chunk [57, 103] in dimension 0 (overworld) while populating chunk [55, 103], causing cascading worldgen lag.
+[20:59:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:59:10] [Server thread/WARN] [FML]: Quark loaded a new chunk [57, 102] in dimension 0 (overworld) while populating chunk [55, 103], causing cascading worldgen lag.
+[20:59:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:59:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[20:59:47] [Server thread/INFO] [morpheus]: Ivanrm04 is now sleeping. 1/2 (50%)
+[20:59:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[21:00:07] [Server thread/WARN] [FML]: Astral Sorcery loaded a new chunk [61, 103] in dimension 0 (overworld) while populating chunk [60, 102], causing cascading worldgen lag.
+[21:00:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:00:07] [Server thread/WARN] [FML]: Astral Sorcery loaded a new chunk [61, 102] in dimension 0 (overworld) while populating chunk [60, 102], causing cascading worldgen lag.
+[21:00:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:00:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved too quickly! 12.602007508078259,5.526990063688629,-5.094125478027308
+[21:00:15] [Server thread/WARN] [FML]: Quark loaded a new chunk [59, 98] in dimension 0 (overworld) while populating chunk [59, 99], causing cascading worldgen lag.
+[21:00:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:08:28] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7e743032)
+[21:08:28] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[21:08:28] [Thread-37/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
