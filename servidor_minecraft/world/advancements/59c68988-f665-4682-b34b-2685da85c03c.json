@@ -7,9 +7,10 @@
   },
   "silentgems:get_super_gem": {
     "criteria": {
+      "gem_super": "2025-01-14 23:27:57 +0000",
       "gem_regular": "2025-01-11 18:14:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
@@ -389,10 +390,13 @@
   "silentgems:gem_all_gems_nether": {
     "criteria": {
       "gem14": "2025-01-14 21:58:01 +0000",
+      "gem13": "2025-01-14 23:37:42 +0000",
       "gem2": "2025-01-14 21:21:10 +0000",
       "gem10": "2025-01-13 23:52:28 +0000",
       "gem11": "2025-01-13 23:38:19 +0000",
-      "gem6": "2025-01-14 21:53:55 +0000"
+      "gem5": "2025-01-14 23:40:22 +0000",
+      "gem6": "2025-01-14 21:53:55 +0000",
+      "gem8": "2025-01-14 23:40:10 +0000"
     },
     "done": false
   },
@@ -1105,6 +1109,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2025-01-14 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "silentgems:get_chaos_essence": {
+    "criteria": {
+      "get_item": "2025-01-14 23:27:29 +0000"
     },
     "done": true
   },

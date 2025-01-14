@@ -1679,6 +1679,12 @@
     },
     "done": true
   },
+  "silentgems:get_pickaxe": {
+    "criteria": {
+      "get_item": "2025-01-14 23:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2025-01-11 18:13:33 +0000"

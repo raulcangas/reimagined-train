@@ -2368,3 +2368,17 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [23:08:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [23:12:38] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
 [23:12:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[23:24:04] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
+[23:24:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[23:24:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[23:27:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Key Material]
+[23:27:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Supercharge Me!]
+[23:30:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Better Pickaxe]
+[23:32:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[23:32:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[23:33:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[23:34:40] [Server thread/INFO] [morpheus]: Ivanrm04 is now sleeping. 1/2 (50%)
+[23:34:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[23:36:56] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7e743032)
+[23:36:56] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[23:36:56] [Thread-46/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
