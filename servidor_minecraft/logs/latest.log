@@ -53,3 +53,14 @@
 [00:26:24] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
 [00:26:24] [Server thread/INFO] [FML]: Unloading dimension -1
 [00:26:25] [Thread-40/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:28:45] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
+[00:28:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[00:32:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634b5c0)
+[00:32:22] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[00:32:22] [Thread-41/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[00:32:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved too quickly! -243.10615808581287,-24.0,-1601.0
+[00:33:50] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[00:33:50] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:33:51] [Thread-41/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:34:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xItzDani lost connection: Disconnected
+[00:34:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani left the game
