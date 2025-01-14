@@ -2290,3 +2290,4 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [22:09:56] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
 [22:09:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
 [22:09:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[22:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [What a Deal!]
