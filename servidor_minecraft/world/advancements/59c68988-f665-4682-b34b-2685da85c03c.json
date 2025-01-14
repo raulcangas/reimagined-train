@@ -388,9 +388,11 @@
   },
   "silentgems:gem_all_gems_nether": {
     "criteria": {
+      "gem14": "2025-01-14 21:58:01 +0000",
       "gem2": "2025-01-14 21:21:10 +0000",
       "gem10": "2025-01-13 23:52:28 +0000",
-      "gem11": "2025-01-13 23:38:19 +0000"
+      "gem11": "2025-01-13 23:38:19 +0000",
+      "gem6": "2025-01-14 21:53:55 +0000"
     },
     "done": false
   },
@@ -597,6 +599,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-01-13 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "rftools:specialores": {
+    "criteria": {
+      "find_ores": "2025-01-14 21:54:21 +0000"
     },
     "done": true
   },
@@ -890,6 +898,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2025-01-14 21:50:32 +0000",
       "wither_skeleton": "2025-01-13 23:56:23 +0000",
       "zombie_villager": "2025-01-11 17:12:31 +0000",
       "magma_cube": "2025-01-14 00:04:15 +0000",
@@ -926,6 +935,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-14 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-14 22:02:13 +0000"
     },
     "done": true
   },
@@ -1040,6 +1055,12 @@
   "silentgems:get_gem": {
     "criteria": {
       "get_item": "2025-01-11 18:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-14 22:07:41 +0000"
     },
     "done": true
   },
