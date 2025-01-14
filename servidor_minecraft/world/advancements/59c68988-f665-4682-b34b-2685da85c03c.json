@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-14 21:16:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-01-11 17:22:59 +0000"
@@ -825,7 +831,10 @@
   "silentgems:gem_all_gems_overworld": {
     "criteria": {
       "gem15": "2025-01-13 21:47:57 +0000",
+      "gem1": "2025-01-14 21:17:44 +0000",
       "gem3": "2025-01-13 21:41:20 +0000",
+      "gem11": "2025-01-14 21:17:21 +0000",
+      "gem6": "2025-01-14 21:14:50 +0000",
       "gem9": "2025-01-11 18:14:08 +0000"
     },
     "done": false
@@ -854,6 +863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-14 21:16:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-11 18:48:26 +0000"
@@ -868,6 +883,7 @@
       "skeleton": "2025-01-11 17:12:20 +0000",
       "blaze": "2025-01-13 23:34:16 +0000",
       "zombie": "2025-01-11 17:12:21 +0000",
+      "cave_spider": "2025-01-14 21:14:57 +0000",
       "witch": "2025-01-11 18:41:15 +0000",
       "spider": "2025-01-11 17:30:22 +0000",
       "ghast": "2025-01-13 23:42:06 +0000",
@@ -1044,6 +1060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2025-01-14 21:17:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-01-13 23:34:17 +0000"
@@ -1088,6 +1110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2025-01-14 21:17:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:sap": {
     "criteria": {
       "treetap_in_inventory": "2025-01-13 22:45:12 +0000"
@@ -1097,6 +1125,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-01-13 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2025-01-14 21:17:03 +0000"
     },
     "done": true
   },
@@ -1265,6 +1299,12 @@
   "botania:main/root": {
     "criteria": {
       "flower": "2025-01-11 17:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2025-01-14 21:16:28 +0000"
     },
     "done": true
   },
@@ -1609,6 +1649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2025-01-14 21:17:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-01-11 17:12:37 +0000"
@@ -1660,6 +1706,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-11 18:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2025-01-14 21:17:03 +0000"
     },
     "done": true
   },

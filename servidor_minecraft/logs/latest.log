@@ -2242,3 +2242,28 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [21:08:28] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7e743032)
 [21:08:28] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
 [21:08:28] [Thread-37/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[21:11:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani tried to swim in lava
+[21:11:29] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: xItzDani died in dimension -1 at BlockPos{x=1, y=64, z=216}. Their grave may be near!
+[21:11:31] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[21:11:32] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:11:32] [Thread-37/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[21:11:46] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7e743032)
+[21:11:46] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[21:11:46] [Thread-38/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[21:13:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani tried to swim in lava
+[21:13:56] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: xItzDani died in dimension -1 at BlockPos{x=1, y=62, z=215}. Their grave may be near!
+[21:13:57] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[21:13:58] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:13:59] [Thread-38/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[21:14:15] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7e743032)
+[21:14:15] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[21:14:15] [Thread-39/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[21:14:40] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[21:14:40] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:14:41] [Thread-39/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[21:14:56] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7e743032)
+[21:14:56] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[21:14:56] [Thread-40/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[21:19:19] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[21:19:20] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:19:21] [Thread-40/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
