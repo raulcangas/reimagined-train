@@ -1,24 +1,24 @@
 [PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
-Jessie Sims
-Ncc1702
-Quaternary
-Spencer Gilbert
-Peregrinus11
-embeddedt
+Hooley
 Phillip Swearingain
-Lucas
+Pongo Sapiens
+Spencer Gilbert
 Belathus
-Ivy_
-Genryu
-NickT
+Ncc1702
 Jordan Pineo
+Quaternary
+Jonathan McManus
+NickT
 Jellycraft
 Zuniroa
-Pongo Sapiens
-Hooley
+embeddedt
+Peregrinus11
 NerdyWhiteGuy
+Genryu
 DreamThorn
-Jonathan McManus
+Ivy_
+Jessie Sims
+Lucas
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
@@ -308,7 +308,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <integrateddynamics:on_the_dynamics_of_integration>: "Included within the "default" Akashic Tome"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <valkyrielib:guide>: "Included within the "default" Akashic Tome"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <industrialforegoing:book_manual>: "Included within the "default" Akashic Tome"
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 478ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 447ms
 [POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <quark:marble:1>
 [POSTINITIALIZATION][SERVER][INFO] 1 removed
