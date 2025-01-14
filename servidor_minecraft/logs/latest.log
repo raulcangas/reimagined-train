@@ -2291,3 +2291,21 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [22:09:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
 [22:09:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
 [22:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [What a Deal!]
+[22:20:31] [Server thread/INFO] [morpheus]: Ivanrm04 is now sleeping. 1/2 (50%)
+[22:20:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[22:24:29] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7e743032)
+[22:24:29] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[22:24:30] [Thread-42/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[22:24:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <xItzDani> vacuos
+[22:24:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <xItzDani> motus
+[22:25:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <xItzDani> lux
+[22:25:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <xItzDani> gelus
+[22:25:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <xItzDani> vitreus
+[22:25:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <xItzDani> metallum
+[22:25:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <xItzDani> victus
+[22:25:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <xItzDani> mortuus
+[22:25:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <xItzDani> potentia
+[22:25:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <xItzDani> permutatio
+[22:28:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[22:28:35] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:28:36] [Thread-42/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
