@@ -2323,3 +2323,14 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [22:40:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
 [22:40:31] [File IO Thread/INFO] [FTB Backups]: Backing up 92 files...
 [22:40:31] [File IO Thread/INFO] [FTB Backups]: Compressing 92 files...
+[22:40:35] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:04 seconds (69.8MB)!
+[22:40:35] [File IO Thread/INFO] [FTB Backups]: Created /workspaces/reimagined-train/servidor_minecraft/./backups/2025-01-14-22-40-31.zip from /workspaces/reimagined-train/servidor_minecraft/./world
+[22:40:35] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:04! (69.8MB | 175.7MB)
+[22:43:02] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
+[22:43:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[22:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Ivanrm04> q haces puto mono
+[22:46:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <xItzDani> q dices
+[22:46:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <xItzDani> fo
+[22:46:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Ivanrm04> q saliste del dis
+[22:46:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
+[22:49:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved wrongly!
