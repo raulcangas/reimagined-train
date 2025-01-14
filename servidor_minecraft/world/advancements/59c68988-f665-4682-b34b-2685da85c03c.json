@@ -1378,6 +1378,12 @@
     },
     "done": true
   },
+  "silentgems:get_chaosore": {
+    "criteria": {
+      "get_item": "2025-01-14 22:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-01-13 23:38:43 +0000"
