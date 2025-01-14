@@ -2341,3 +2341,8 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [23:49:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ivanrm04 moved too quickly! -255.04278743777218,12.0,-1614.1636253848628
 [23:50:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani fell from a high place
 [23:50:02] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: xItzDani died in dimension -1 at BlockPos{x=-111, y=34, z=244}. Their grave may be near!
+[23:54:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [A Terrible Fortress]
+[23:55:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [A Terrible Fortress]
+[23:55:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Into Fire]
+[23:57:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani has made the advancement [Ferrously Mechanical]
+[23:57:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ivanrm04 has made the advancement [Spooky Scary Skeleton]

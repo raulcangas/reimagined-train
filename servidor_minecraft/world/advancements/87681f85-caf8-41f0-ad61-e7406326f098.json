@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2025-01-13 23:56:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-01-11 18:04:14 +0000"
@@ -221,6 +227,12 @@
     },
     "done": true
   },
+  "enderio:gears/g3_iron_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-01-13 23:57:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-01-11 17:29:23 +0000"
@@ -319,6 +331,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-01-11 17:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-13 23:54:53 +0000"
     },
     "done": true
   },
@@ -751,6 +769,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2025-01-13 23:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-01-13 22:57:29 +0000"
@@ -765,6 +789,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2025-01-13 23:56:18 +0000",
+      "magma_cube": "2025-01-13 23:57:59 +0000",
       "skeleton": "2025-01-11 17:10:47 +0000",
       "blaze": "2025-01-13 23:23:39 +0000",
       "cave_spider": "2025-01-11 18:09:08 +0000",
@@ -936,6 +962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-13 23:55:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-11 17:11:32 +0000"
@@ -1011,6 +1043,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-11 18:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-13 23:54:34 +0000"
     },
     "done": true
   },
@@ -1254,6 +1292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-13 23:55:19 +0000"
+    },
+    "done": true
+  },
   "silentgems:get_soul_gem": {
     "criteria": {
       "get_item": "2025-01-11 17:10:30 +0000"
@@ -1311,6 +1355,12 @@
   "enderioconduits:start/2_conduit_binder": {
     "criteria": {
       "inv_changed-enderio:conduit_binder": "2025-01-13 23:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-13 23:55:19 +0000"
     },
     "done": true
   },
@@ -1376,6 +1426,12 @@
   "silentgems:root": {
     "criteria": {
       "get_item": "2025-01-11 17:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2025-01-13 23:56:29 +0000"
     },
     "done": true
   },
@@ -1484,6 +1540,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2025-01-11 18:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2025-01-13 23:56:29 +0000"
     },
     "done": true
   },
