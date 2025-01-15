@@ -7,3 +7,31 @@
 [00:27:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved too quickly! -4.133973837376857,3.770008174439738,8.355923059733414
 [00:31:16] [Server thread/INFO] [morpheus]: xItzDani is now sleeping. 1/2 (50%)
 [00:31:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: xItzDani moved wrongly!
+[00:35:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xItzDani lost connection: Disconnected
+[00:35:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xItzDani left the game
+[00:36:44] [Server thread/WARN] [net.minecraft.command.CommandHandler]: Couldn't process command: tpa xItzDani
+java.lang.NullPointerException: xItzDani is not online!
+	at com.feed_the_beast.ftblib.lib.data.ForgePlayer.getPlayer(ForgePlayer.java:254) ~[ForgePlayer.class:?]
+	at com.feed_the_beast.ftbutilities.command.tp.CmdTPA.func_184881_a(CmdTPA.java:47) ~[CmdTPA.class:?]
+	at com.feed_the_beast.ftbutilities.ranks.CommandOverride.func_184881_a(CommandOverride.java:83) ~[CommandOverride.class:?]
+	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119) [bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91) [bj.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962) [pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37) [la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9) [la.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[00:40:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
+[00:40:31] [File IO Thread/INFO] [FTB Backups]: Backing up 93 files...
+[00:40:31] [File IO Thread/INFO] [FTB Backups]: Compressing 93 files...
+[00:40:35] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:04 seconds (77.3MB)!
+[00:40:35] [File IO Thread/INFO] [FTB Backups]: Created /workspaces/reimagined-train/servidor_minecraft/./backups/2025-01-15-00-40-31.zip from /workspaces/reimagined-train/servidor_minecraft/./world
+[00:40:35] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:04! (77.3MB | 253.0MB)
