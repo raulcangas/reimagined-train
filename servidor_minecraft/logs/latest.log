@@ -35,3 +35,4 @@ java.lang.NullPointerException: xItzDani is not online!
 [00:40:35] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:04 seconds (77.3MB)!
 [00:40:35] [File IO Thread/INFO] [FTB Backups]: Created /workspaces/reimagined-train/servidor_minecraft/./backups/2025-01-15-00-40-31.zip from /workspaces/reimagined-train/servidor_minecraft/./world
 [00:40:35] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:04! (77.3MB | 253.0MB)
+[00:43:23] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
